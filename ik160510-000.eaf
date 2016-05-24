@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-05-21T22:32:36+09:30" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-05-24T14:30:10+09:30" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/warruwilanguagecentre/vanya2016/rec_2016/aud/ik160510-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160510-000.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:43873d4a-cf17-48a6-b9e8-7c77ed7442f4</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">71</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">84</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="52427"/>
@@ -84,6 +84,8 @@
         <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="214692"/>
         <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="216540"/>
         <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="218876"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="219677"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="220461"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="George Djidurinjmak" TIER_ID="rf@A">
         <ANNOTATION>
@@ -128,7 +130,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>nayi karna bokob, kinda bidju Karrabu</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nayi karna bokob, ninda bidju Karrabu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -138,7 +140,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
-                <ANNOTATION_VALUE>ngarrakkidang ngarrak nayi korro indjin</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngarrakkidang ngarrakngayi korro indjin</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -148,7 +150,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
-                <ANNOTATION_VALUE>kaddanganjdja yanbi ngalbi lakamurrng</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kaddakanjdja [nrzb] rlakamurrng</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -158,27 +160,27 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
-                <ANNOTATION_VALUE>... kuyu</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nayi nakalng Koyek</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
-                <ANNOTATION_VALUE>na Elcho kaddakarna</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nakalng Elcho kaddakarrme</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
-                <ANNOTATION_VALUE>a konj keyenda ngarl kigli</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nawukbonj mimdom kawarrmi, Willy</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
-                <ANNOTATION_VALUE>ngorro danj anjrnayi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>korro kaddanganjkayinj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE>kaburnu yiwanj wularru ... rnanj .... barkli</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kabuyirrmarr wularrud [nrzb]</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -188,12 +190,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
-                <ANNOTATION_VALUE>kaburrurnu ngorro neyang</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kabuddurnuy [nrzb] neyang</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mayi dingi kaddabarraway barda kenda</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -235,7 +237,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a19">
-                <ANNOTATION_VALUE>it's sitting in the water there at Karrabu</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>it's sitting in the water right there at Karrabu</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -245,12 +247,52 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a20">
-                <ANNOTATION_VALUE>if we go, we can listen to that engine</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we went there and listened to the engine</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a21">
                 <ANNOTATION_VALUE>they just swam towards the shore</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>the came [across] .... that night</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>he's from the East</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>he's from Elcho / they looked after him at Elcho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>that old man Willy died</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>where they came from</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>he followed him [from somewhere?]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>?he gave them food?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>they jumped into that dingi (canoe)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -263,11 +305,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a18">
                 <ANNOTATION_VALUE>a discontinuous NP!</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a19">
-                <ANNOTATION_VALUE>I hear "ninda", not "kinda"</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -288,6 +325,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a24">
                 <ANNOTATION_VALUE>i write "kuyu" but hear [gojo]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>what happens to the [w] in `give'?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -386,12 +428,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
-                <ANNOTATION_VALUE>ngayi kaddawularrbudj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngayi kaddawularrbunj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
-                <ANNOTATION_VALUE>... ngundirnan karra kenda wuy</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nukka nayi nakalng karra kendawonj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -401,12 +443,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
-                <ANNOTATION_VALUE>captain only</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>captain Morgan</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
-                <ANNOTATION_VALUE>bakki ...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>bakki birnungu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -419,6 +466,21 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a64">
                 <ANNOTATION_VALUE>it sank</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>where white men?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Where did he come from?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>he had tobacco?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>

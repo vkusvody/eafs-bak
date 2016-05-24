@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-05-21T22:23:14+09:30" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-05-22T10:39:04+09:30" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/warruwilanguagecentre/vanya2016/rec_2016/aud/ik_160424_000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik_160424_000.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4434c825-cea0-4030-a946-95c4d5100e29</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">72</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">95</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="44052"/>
@@ -102,7 +102,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>nganamarnbunj djurra kuyi karnawanj babi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nganamarnbunj djurra kuyi korndoway babi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -117,12 +117,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
-                <ANNOTATION_VALUE>o ngana? welenj nganamarnbunj nayi djurra</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nganaka welenj nganamarnbunj nayi djurra</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
-                <ANNOTATION_VALUE>ngarrkngundje mawamawa, and kaka mawa, ngabbard</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngarrkngundje mawamawa, and korro mawa, ngabbard</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -137,12 +137,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
-                <ANNOTATION_VALUE>and ngarrkwarre korro?/-&gt;ngorro? balkime kenda</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and ngarrkwarre ngorro balkime kenda</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>ngarrdna</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngarrkrna</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -167,22 +167,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>and balkime ngorro ngarrkdja ngarrakdjarrak, and balkime ngana ngarrkdja</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and balkime ngorro ngarrkdja ngarrakdjarrak, and balkime kenda ngarrkdja</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>ngondo kuyi ngayolyolhmewuyinj?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngondo kuyi ngayolyolhme kuyi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE>...-ngundje ngabbard, la mawamawa, la bulubulu, la kakkak</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>korro ngarrkngundje ngabbard, la mawamawa, la bulubulu, la kakkak</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>and ngarrkwarre ngorro balkime ngorro ngabuddukarrme ngarrkbudiyakbu?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and ngarrkwarrenj ngorro balkime ngorro ngabuddukarrme ngarrkbudiyakbu?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -197,7 +197,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
-                <ANNOTATION_VALUE>balka karrka?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>balkime ngarrka</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -247,7 +247,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
-                <ANNOTATION_VALUE>kaddanganjwerrewayi?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kaddakanjka werreka</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -272,7 +272,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
-                <ANNOTATION_VALUE>ngunu? ... mayali, nayi barrayidjidj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kiddakalbinj djininj mayali, nayi barrayidjidj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -299,12 +299,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a2">
-                <ANNOTATION_VALUE>He and I are making a book that will remain? later on</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>He and I are making a book that will remain later on</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a3">
                 <ANNOTATION_VALUE>[about] who we call ancestors</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>we are making the book [right now -- ``walking the road'']</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -318,18 +323,73 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>and MM, and MB (?doidoi)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and we who are here now</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>we are [`sitting'] here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>from the ancestors</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>we start and we go to mother</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>and today those of us still alive, and today we are here</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>this is what I am ...?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>this is what I am talking about:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>about? father, ancestors, MB and MM</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>we now got kids</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>niece, nephew, and grandchildren</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>that's the book we are making, nankila and I</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>my brother kindibi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>he's [standing] here</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a26">
-                <ANNOTATION_VALUE>this whitefella</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>he is whitefella</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -348,6 +408,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>coming across</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a32">
                 <ANNOTATION_VALUE>they grow up, like tomorrow, from now on</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -358,8 +423,23 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>they don't hold the knowledge tight, the kids</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a37">
                 <ANNOTATION_VALUE>and a lot of good lessons for kids</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>our kids and grandchildren</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>(s/he) teaches them our language</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -375,23 +455,38 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>i think ngorro, cause lenites so strongly to [#w]</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>mawamawa -- pl, can include others, not only mawa's</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>is that -rna?</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Питер порет какую-то хуйню про два языка, они заебали уже со своими диалектами</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>how many bits are in stem of verb?</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>это тоже пропускаем -- мне кажется, что он слово не знает, поэтому начинает плести. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>cool coverb construction -- borrowing</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>better check the kenda</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>better check translation</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a18">
-                <ANNOTATION_VALUE>budi = weird form of 3plObj?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>budi = weird form of 3plObj? Этот Петя совершенно профнепригодный</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -400,8 +495,13 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>я же через три дня буду с полом -- вот с ним и проверю</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a39">
-                <ANNOTATION_VALUE>i came to believe that verb is rdukbaRNdje -- check, systematize</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>i came to believe that verb is rdukbaRNdje -- check, systematize -- в худшем случае, будет минимальная пара</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
