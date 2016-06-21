@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-05-24T17:32:23+09:30" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-06-17T14:51:10+09:30" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/warruwilanguagecentre/vanya2016/rec_2016/aud/ik160510-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160510-000.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/rec_2016/aud/ik160510-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160510-000.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:43873d4a-cf17-48a6-b9e8-7c77ed7442f4</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">84</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">154</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="52427"/>
@@ -86,6 +86,72 @@
         <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="218876"/>
         <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="219677"/>
         <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="220461"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="221715"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="225909"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="226642"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="227736"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="227844"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="229523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="230001"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="231754"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="237295"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="239595"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="243210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="245489"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="246241"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="247741"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="249389"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="250957"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="253241"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="255109"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="256888"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="261857"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="264562"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="267625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="268775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="271522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="274684"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="278063"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="278073"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="278978"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="284036"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="286841"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="288678"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="290973"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="291733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="293191"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="293718"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="295491"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="296375"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="298739"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="301441"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="303109"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="306904"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="309199"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="311809"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="313262"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="315196"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="316796"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="317478"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="318731"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="322330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="325009"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="326683"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="328520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="330188"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="333646"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="335321"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="337226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="339108"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="340281"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="341413"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="342744"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="345515"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="349352"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="353073"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="354357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="355178"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="358794"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="George Djidurinjmak" TIER_ID="rf@A">
         <ANNOTATION>
@@ -100,7 +166,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
-                <ANNOTATION_VALUE>ngaddarninganj Malabunuwa</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngaddayalbidjanganj Malabunuwa</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -140,17 +206,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
-                <ANNOTATION_VALUE>ngarrakkidang ngarrakngayi korro indjin</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngarrakyung ngarrakngayi korro indjin</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts48">
-                <ANNOTATION_VALUE>nayi kaddamarnakkinjkabukayinj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nayi(?) kaddamarnakkinjkabukayinj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
-                <ANNOTATION_VALUE>kaddakanjdja [nrzb] rlakamurrng</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kaddanganjdjanganj ngambingambi lakamurrng</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -160,7 +226,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
-                <ANNOTATION_VALUE>nayi nakalng Koyek</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nukka rnayi nakalng Koyek</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -175,12 +241,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
-                <ANNOTATION_VALUE>korro kaddanganjkayinj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>korro kaddanganjmayinj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE>kabuyirrmarr wularrud [nrzb]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kabunyikalng karlurru bardarnuk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -190,12 +256,167 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
-                <ANNOTATION_VALUE>kabuddurnuy [nrzb] neyang</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kabuddurnuy ngorro[r] neyang</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
-                <ANNOTATION_VALUE>mayi dingi kaddabarraway barda kenda</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nukka mayi dingi kaddabarrbarkenrdam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>dingi kaddabarrabarrkenrdam kaddangankinj kaddawarrinj ngambi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>kunku karlyu korro djingakab</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>kaddangambiwam kaddabukayinj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>kidjbulki kaddabukayinj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>karninganj kabuddurnay kabuddungokmirdam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a97" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>durduk kabuddunkarrme</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a99" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>kabuddungokmirdam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>kungon kaddakalng</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>kaddakarrme la:: kabuddurnay la kaddanganjka la kirdimarrk yikabonj kaddanganjka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a107" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>kaddakalbiyinj kabuddundjaddjikalng djaddji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a110" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>kiddawunwanj wirdidj kaburrunmarnanjngunda</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a111" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>kaddaburrbum nayi nawukbonj mimdom </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>kaddakalng ngorro kaddaworrmeng djininj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a118" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>kabuddumarnanjworrmeng ngob</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>korro ngaddarninganj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a123" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>kaddanganjrninga::nj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>kaddangayingayidjinj kuddjak ngarrkibudduwanj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a127" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>kaddanganjdolkkidanj korro</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a129" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>kenda bonj karra ngudda yalbi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>Kuwarndom kaddayunganj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a133" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>kaburrk bilem</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>marlengyununj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a138" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>kaburrunkalng kenda ngorro kaddayunganj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a140" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>korrobonj kaddarninganj ngemek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>kabuddumarnanjbing ninda kaddanganjka ngarrbunkanj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>nayi kabbala kayidjung bibudbe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a146" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>kaddanganjrna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a147" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>djaddji ngorro</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a148" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>ngurda ngemek  kinbaddadjarrak la dja karlu ngob kendabonj ngunda nakaybi kidjinj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a152" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>djal karlu ngob</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -217,7 +438,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>we sat in the canoe, we went around and got to this other place</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we sat in the canoe, we went around the corner and got out of the canoe</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -227,7 +448,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a6">
-                <ANNOTATION_VALUE>we got to Karrabu and we came across</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we got to Karrabu and we came across [the creek]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -247,17 +468,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a20">
-                <ANNOTATION_VALUE>we went there and listened to the engine</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we didn't hear the engine</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a21">
-                <ANNOTATION_VALUE>they just swam towards the shore</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>they just went out [and swam towards the shore] [not far, close up]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a22">
-                <ANNOTATION_VALUE>the came [across] .... that night</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>they were coming [across the water], in the night</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -282,26 +503,171 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a28">
-                <ANNOTATION_VALUE>he followed him [from somewhere?]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>he took from him smokes(?) or something</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a30">
-                <ANNOTATION_VALUE>?he gave them food?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>he gave them food</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a53">
-                <ANNOTATION_VALUE>they jumped into that dingi (canoe)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>they jumped into that dingi (boat)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>they loaded the canoe and went off swimming</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>not far away, close by</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>they sawm and got out [onto the shore]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>onto the reef they went out</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>they [dogs] saw them and barked</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>he/they held the dogs</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>they were barking at them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>they got paperbark [sticks]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>they got [the firesticks?] and they saw them approaching and that mob was coming</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>they gathered and invited them: Come here!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>come warm yourselves by the fire ,they told them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a111">
+                <ANNOTATION_VALUE>he kney those elders</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a116">
+                <ANNOTATION_VALUE>they got that and made a big fire</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a118">
+                <ANNOTATION_VALUE>they (all) made fire for them (all)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE>we sat there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a123">
+                <ANNOTATION_VALUE>they sat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE>they talked amongst themselves and agreed: Doesn't matter, we'll take them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a127">
+                <ANNOTATION_VALUE>they came from far away</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a129">
+                <ANNOTATION_VALUE>from here to your home</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a131">
+                <ANNOTATION_VALUE>they were camping at Kuwarndom</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a133">
+                <ANNOTATION_VALUE>two canoes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a135">
+                <ANNOTATION_VALUE>big ones</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a138">
+                <ANNOTATION_VALUE>they [the Aboriginal people] got them [whitefellas], and they (whitefellas) slept there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a140">
+                <ANNOTATION_VALUE>at that place they were together</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a142">
+                <ANNOTATION_VALUE>we're here, we're taking them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a144">
+                <ANNOTATION_VALUE>their ship sank</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE>they're sitting over there</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a147">
+                <ANNOTATION_VALUE>come here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a148">
+                <ANNOTATION_VALUE>they're not alive, there's no-one, all gone</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>no-one left</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a2">
-                <ANNOTATION_VALUE>kto govorit-to?</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a18">
                 <ANNOTATION_VALUE>a discontinuous NP!</ANNOTATION_VALUE>
@@ -309,7 +675,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a20">
-                <ANNOTATION_VALUE>Neg prefix and IrrNeg stem? I don't hear -kidang; and the nayi could be -ngayi, cause otherwise where is "hear"?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Neg prefix and IrrNeg stem? I don't hear -kidang; and the nayi could be -ngayi, cause otherwise where is "hear"? bylo: ngarrakkidang ngarrakngayi korro, and: we went there and listened to the engine</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -324,12 +690,37 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a24">
-                <ANNOTATION_VALUE>i write "kuyu" but hear [gojo]</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>is that retroflexion an artifact of the intervocalic position???</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>very confusing</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a30">
-                <ANNOTATION_VALUE>what happens to the [w] in `give'?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>what happens to the [w] in `give'? and even more exciting that [r] in the end of ngorro</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>check spelling</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE> </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a118">
+                <ANNOTATION_VALUE>maybe obj ngob</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a135">
+                <ANNOTATION_VALUE>-yununj?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -428,7 +819,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
-                <ANNOTATION_VALUE>ngayi kaddawularrbunj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngayi kaddawalarrbunj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -453,7 +844,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>yuh-yuh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a114" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>yuh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>kabuddumarnanjbing or la mommalk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -470,7 +871,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a33">
-                <ANNOTATION_VALUE>where white men?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>those white men?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -481,6 +882,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a37">
                 <ANNOTATION_VALUE>he had tobacco?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a114">
+                <ANNOTATION_VALUE>yes</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
