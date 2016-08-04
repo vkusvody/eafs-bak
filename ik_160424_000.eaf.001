@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-07-13T17:59:45+09:30" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-07-31T21:52:07+09:30" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/rec_2016/aud/ik_160424_000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik_160424_000.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4434c825-cea0-4030-a946-95c4d5100e29</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">149</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">198</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="44052"/>
@@ -164,6 +164,64 @@
         <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="425556"/>
         <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="426372"/>
         <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="428635"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="441660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="442923"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="443324"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="445850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="448107"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="449357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="451212"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="454278"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="455541"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="458423"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="460396"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="464265"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="465415"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="468837"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="470040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="472922"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="474737"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="478145"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="478961"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="483698"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="486217"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="491678"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="492756"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="493796"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="494440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="496164"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="498045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="504059"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="510434"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="517065"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="521940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="524690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="536788"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="538143"/>
+        <TIME_SLOT TIME_SLOT_ID="ts193" TIME_VALUE="539287"/>
+        <TIME_SLOT TIME_SLOT_ID="ts194" TIME_VALUE="540735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts195" TIME_VALUE="542175"/>
+        <TIME_SLOT TIME_SLOT_ID="ts196" TIME_VALUE="543281"/>
+        <TIME_SLOT TIME_SLOT_ID="ts197" TIME_VALUE="543313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts198" TIME_VALUE="545274"/>
+        <TIME_SLOT TIME_SLOT_ID="ts199" TIME_VALUE="546365"/>
+        <TIME_SLOT TIME_SLOT_ID="ts200" TIME_VALUE="549655"/>
+        <TIME_SLOT TIME_SLOT_ID="ts201" TIME_VALUE="551293"/>
+        <TIME_SLOT TIME_SLOT_ID="ts202" TIME_VALUE="555306"/>
+        <TIME_SLOT TIME_SLOT_ID="ts203" TIME_VALUE="556634"/>
+        <TIME_SLOT TIME_SLOT_ID="ts204" TIME_VALUE="559240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts205" TIME_VALUE="566638"/>
+        <TIME_SLOT TIME_SLOT_ID="ts206" TIME_VALUE="570848"/>
+        <TIME_SLOT TIME_SLOT_ID="ts207" TIME_VALUE="571776"/>
+        <TIME_SLOT TIME_SLOT_ID="ts208" TIME_VALUE="574276"/>
+        <TIME_SLOT TIME_SLOT_ID="ts209" TIME_VALUE="576164"/>
+        <TIME_SLOT TIME_SLOT_ID="ts210" TIME_VALUE="577427"/>
+        <TIME_SLOT TIME_SLOT_ID="ts211" TIME_VALUE="584684"/>
+        <TIME_SLOT TIME_SLOT_ID="ts212" TIME_VALUE="588158"/>
+        <TIME_SLOT TIME_SLOT_ID="ts213" TIME_VALUE="601440"/>
+        <TIME_SLOT TIME_SLOT_ID="ts214" TIME_VALUE="603177"/>
+        <TIME_SLOT TIME_SLOT_ID="ts215" TIME_VALUE="606736"/>
+        <TIME_SLOT TIME_SLOT_ID="ts216" TIME_VALUE="608722"/>
     </TIME_ORDER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="Paul Naragoidj" TIER_ID="rf@A">
@@ -539,7 +597,152 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a145" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
-                <ANNOTATION_VALUE>Nakankila?, ngaburru kindibi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Nakankila?, ngadburru kindibi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a150" TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>ngabbard</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a151" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>ngayi ngankarrme kindibi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a153" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>nabuk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a154" TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>nayi Tina father, nukka kurduwala</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a156" TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>but narlengburr nayi babi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a157" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>ninda nayi nayi babi nukka nayi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a159" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>kabunkalng nukka nakindibi, nakindibi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a160" TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>ninda kabunkalng nakurduwala</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a161" TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>but kunkudji ngayi ngana biburnunga</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a165" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>but different fathers, that's why different nguya</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a166" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>kurnakkudji biburnungka, so only yimarne ngayi la blue house kayuwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a167" TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>kurnakkudji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a168" TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>narlengburr nayi babi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a169" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>nguddaburrbunj kangunda ngayi korro kawandarrkbuyinj korro way back, our history</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a172" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>wularrud, kiburrunkarrmili, but still some, Manauwan, kangundje they got two wife</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a174" TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>way back kabuddunkarrmeng three or four wife</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a175" TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>one mother bibudbe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a176" TIME_SLOT_REF1="ts193" TIME_SLOT_REF2="ts194">
+                <ANNOTATION_VALUE>ngarrkngundje ngob</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a179" TIME_SLOT_REF1="ts195" TIME_SLOT_REF2="ts196">
+                <ANNOTATION_VALUE>kukka ngorro</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a181" TIME_SLOT_REF1="ts197" TIME_SLOT_REF2="ts198">
+                <ANNOTATION_VALUE>so this djurra what we want</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a182" TIME_SLOT_REF1="ts199" TIME_SLOT_REF2="ts200">
+                <ANNOTATION_VALUE>ngarrkimarnbunj narlengbinbin so kanjka ngorro down south</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a183" TIME_SLOT_REF1="ts201" TIME_SLOT_REF2="ts202">
+                <ANNOTATION_VALUE>way back karra kanjbaddakelkkuyi kaddakelkkuyi balanda</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a185" TIME_SLOT_REF1="ts203" TIME_SLOT_REF2="ts204">
+                <ANNOTATION_VALUE>kanjbaddangundje study Kunbarlang</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a187" TIME_SLOT_REF1="ts205" TIME_SLOT_REF2="ts206">
+                <ANNOTATION_VALUE>kirnda ngorro kanjbaddakelkkuyi djurra and lerrk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a189" TIME_SLOT_REF1="ts207" TIME_SLOT_REF2="ts208">
+                <ANNOTATION_VALUE>kanjbaddamarnbunj big djurra</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a190" TIME_SLOT_REF1="ts209" TIME_SLOT_REF2="ts210">
+                <ANNOTATION_VALUE>please ngamabulunj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a191" TIME_SLOT_REF1="ts211" TIME_SLOT_REF2="ts212">
+                <ANNOTATION_VALUE>ngarrkirlakka ngob lerrk there ngarrkimarnbunj djurra</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a193" TIME_SLOT_REF1="ts213" TIME_SLOT_REF2="ts214">
+                <ANNOTATION_VALUE>kiddarna kiddaburrbunj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a195" TIME_SLOT_REF1="ts215" TIME_SLOT_REF2="ts216">
+                <ANNOTATION_VALUE>kiddardam lerrk korro djurra</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -754,6 +957,76 @@
                 <ANNOTATION_VALUE>all history will be in that book for us</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>my father [was] kindibi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a154">
+                <ANNOTATION_VALUE>that Tina's father [i.e., Douglas], he's kurduwala</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>but the second one [lit. the one after the eldest]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>but one mother for both of them</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a169">
+                <ANNOTATION_VALUE>[do] you guys know, something went wrong there back then (??)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a172">
+                <ANNOTATION_VALUE>back in the day -- and still some in Maningrida [do it] -- they used to have two wives</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>we all are doing it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a179">
+                <ANNOTATION_VALUE>that's why [DDj's transla]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a183">
+                <ANNOTATION_VALUE>way over there they'll be working there where balandas work</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a185">
+                <ANNOTATION_VALUE>they'll study Kunbarlang</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a187">
+                <ANNOTATION_VALUE>over there, they'll be working on the book and the language</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a191">
+                <ANNOTATION_VALUE>we all throw in words in there, we are making the book</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a193">
+                <ANNOTATION_VALUE>they will sit and think</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a195">
+                <ANNOTATION_VALUE>pu all the word into the book</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment">
         <ANNOTATION>
@@ -793,7 +1066,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a103">
-                <ANNOTATION_VALUE>PN: the same as kibunkanj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>PN: the same as kibunkanj; ik -- I hear `kiddarnanj'</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -819,6 +1092,36 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a145">
                 <ANNOTATION_VALUE>so how to write that one?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a160">
+                <ANNOTATION_VALUE>so over these few bits he mentions two guys whose fathers are kindibi and kurduwala, but they have the same mother. DDj says that's probably their mawa-s/granddads</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>kun-??!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a169">
+                <ANNOTATION_VALUE>[check transla]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>pro-drop -- nice idea of checking scope of ngob etc!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a193">
+                <ANNOTATION_VALUE>i'm not sure about the person reference of these forms, because they should be 3Pl, but it'd make sense here to use 2Pl..</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a195">
+                <ANNOTATION_VALUE>i'm not sure about the person reference of these forms, because they should be 3Pl, but it'd make sense here to use 2Pl..</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
