@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-10-04T15:37:05+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-03-17T18:02:44+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/rec_2016/aud/ik160624-002.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160624-002.wav" TIME_ORIGIN="6725"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/rec_2016/vid/ik160624-002.m4v" MIME_TYPE="unknown" RELATIVE_MEDIA_URL="../vid/ik160624-002.m4v"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/rec_2016/aud/ik160624-002.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160624-002.wav" TIME_ORIGIN="6725"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/rec_2016/vid/ik160624-002.m4v" MIME_TYPE="unknown" RELATIVE_MEDIA_URL="../vid/ik160624-002.m4v"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:20a9bd36-10e8-4e0c-8cfe-02bbcb8e09a2</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">168</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">169</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1210"/>
@@ -178,7 +178,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="520459"/>
         <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="521657"/>
     </TIME_ORDER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="Rita Djitmu" TIER_ID="rf@A">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
                 <ANNOTATION_VALUE>ngaddakidanj</ANNOTATION_VALUE>
@@ -236,7 +236,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
-                <ANNOTATION_VALUE>Kundjarrnim</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Kunkarrnim</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -350,7 +350,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" PARTICIPANT="Rita Djitmu" TIER_ID="trans@A">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a3">
                 <ANNOTATION_VALUE>we went to Nakalarramba</ANNOTATION_VALUE>
@@ -469,11 +469,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" TIER_ID="wd@A"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
-    <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="gl@A"/>
-    <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="pos@A"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" PARTICIPANT="Rita Djitmu" TIER_ID="wd@A"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" PARTICIPANT="Rita Djitmu" TIER_ID="mb@A"/>
+    <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" PARTICIPANT="Rita Djitmu" TIER_ID="gl@A"/>
+    <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" PARTICIPANT="Rita Djitmu" TIER_ID="pos@A"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" PARTICIPANT="Linda Najinga" TIER_ID="rf@B">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>... kabangan ... story</ANNOTATION_VALUE>
@@ -521,7 +521,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts28" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>yoh, from Mayirri mukka ngorro ngarrkbaybum then walk</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>yoh, from Mayirri mukka ngorro wukbonj ngarrkbaybum then walk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -561,7 +561,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
-                <ANNOTATION_VALUE>nukka ngorro cyclone kanganjkidanj ready ngorro John Hunter kanganjkidanj kangunda kinburnunga two old people kanganjka dukulu</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nukka ngorro cyclone ngorro kanganjkidanj ready ngorro John Hunter kanganjkidanj kangunda kinburnunga two old people kanganjka dukulu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -591,7 +591,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE>Kundjarrnim, yoh, kabarrawalkkibukayinj mukka ngorro wukbonj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Kunkarrnim, yoh, kabarrawalkkibukayinj mukka ngorro wukbonj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -730,7 +730,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" PARTICIPANT="Linda Najinga" TIER_ID="trans@B">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a6">
                 <ANNOTATION_VALUE>No, start from how we went to Nakalarramba</ANNOTATION_VALUE>
@@ -773,7 +773,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a20">
-                <ANNOTATION_VALUE>yes, from M, we left it there then walked</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>yes, from M, we left that canoe there then walked</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -950,12 +950,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a32">
-                <ANNOTATION_VALUE>kinburnunga `they.DU.OBL', it seems; wordgra: -benengka</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kinburnunga `they.DU.OBL', it seems -- check this form (cf. Coleman (n.d.): -benengka)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a34">
                 <ANNOTATION_VALUE>RDj says there is kabarrakidanj, I only hear the falstart kabarra-</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>kabarra-wam: WLG prefix, BGW root</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -966,11 +971,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a45">
                 <ANNOTATION_VALUE>apparently, that huge weird word means `they two came around'. Cf. korrobakdjuwa `sit down' in brolga story</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a53">
-                <ANNOTATION_VALUE>check [k] or [dj]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -986,11 +986,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a74">
                 <ANNOTATION_VALUE>RDj says "kabarranganjkanginj", this is happennig outside though and in the quiet I hear "kabaddakalng"?? ALSO: nice example for the time reference</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a109">
-                <ANNOTATION_VALUE>new transcr goes from here</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

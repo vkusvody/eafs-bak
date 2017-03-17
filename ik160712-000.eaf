@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-07-16T16:38:02+09:30" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-02-14T13:31:18+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/rec_2016/aud/ik160712-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160712-000.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled 1/rec_2016/aud/ik160712-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160712-000.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:649f1a98-90c3-4e48-b43d-2da7f2e220b8</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">6</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">15</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="86906"/>
         <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="89011"/>
         <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="97313"/>
         <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="99813"/>
-        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="5448845"/>
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5449871"/>
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5471106"/>
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="5472040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="484453"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="485651"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="571287"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="572721"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="600291"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="620028"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="632659"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="636816"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="5448845"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="5449871"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="5471106"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="5472040"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -27,12 +35,32 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ngarrkika</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ngarrkingemeyi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ngudda kinjnganngeme... kinjnganngeme balkkime, la ngayi nganjngunngeme malayi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>kinjnganngeme balkkime, la ngayi nganjngunngeme malayi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
                 <ANNOTATION_VALUE>kaburnbum</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
                 <ANNOTATION_VALUE>kabunbum</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -48,8 +76,34 @@
                 <ANNOTATION_VALUE>and beat him</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>let's go!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>let's/we'll paint each other</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>You paint me now, and I'll paint you tomorrow</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>You paint me now, and I'll paint you tomorrow</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>[arrkiga]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" TIER_ID="wd@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="gl@A"/>
