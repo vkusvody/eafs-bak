@@ -63,19 +63,19 @@
     </prefList>
     <prefGroup key="TierFonts"/>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">54,23</Object>
+        <Object class="java.awt.Point">54,30</Object>
     </pref>
     <pref key="GridViewer.TierName">
         <String>rf@B</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>1210</Long>
+        <Long>300694</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>1210</Long>
+        <Long>300693</Long>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="trsl@PN">
@@ -125,7 +125,7 @@
         <Float>76.0</Float>
     </pref>
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1831,1057</Object>
+        <Object class="java.awt.Dimension">1831,1050</Object>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -174,13 +174,13 @@
         <String>rf@B</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>0</Long>
+        <Long>292675</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>370</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>5868</Long>
+        <Long>306852</Long>
     </pref>
 </preferences>
