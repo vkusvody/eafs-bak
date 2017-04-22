@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-04-19T17:57:52+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-04-22T17:26:08+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/rec_2016/aud/ik160802-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160802-000.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/rec_2016/aud/ik160802-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160802-000.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6e76f454-30b1-4dc3-9887-2cb6b5b5bbdc</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">4</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">12</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="107641"/>
         <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="115299"/>
         <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="154033"/>
         <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="160230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="673722"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="675353"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="859954"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="861723"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="880436"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="882673"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="964709"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="966867"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="Jonah Walamaka" TIER_ID="rf@A">
         <ANNOTATION>
@@ -22,6 +30,26 @@
                 <ANNOTATION_VALUE>nayika kirdimarrk kaddamangarninjdjanganj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>kuwanjak kuyi njunjuk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>kaddanganjmulmulkidanj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>kaddanganjkidanj mulmul ngob</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>kaddanganjkidanj mulmul ngob</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
@@ -32,6 +60,26 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a2">
                 <ANNOTATION_VALUE>few people sang</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>little water</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>a lot of people came</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>everyone came</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>everyone came</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -53,7 +101,6 @@
     <LINGUISTIC_TYPE CONSTRAINTS="Included_In" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="lx" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mb" TIME_ALIGNABLE="false"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gl" TIME_ALIGNABLE="false"/>
-    <LOCALE COUNTRY_CODE="AU" LANGUAGE_CODE="en"/>
     <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
     <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
