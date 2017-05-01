@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-04-11T18:41:42+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-05-01T19:27:17+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/rec_2016/aud/ik160510-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160510-000.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/rec_2016/aud/ik160510-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160510-000.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:43873d4a-cf17-48a6-b9e8-7c77ed7442f4</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">159</PROPERTY>
     </HEADER>
@@ -582,7 +582,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a110">
-                <ANNOTATION_VALUE>come warm yourselves by the fire ,they told them</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>come warm yourselves by the fire, they told them</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -798,7 +798,7 @@
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" PARTICIPANT="Douglas Djalanba" TIER_ID="rf@B">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>barninda?? nganjdjiyolyolhme, ah, wularrud bilinj ngunda, blohbloh</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>barninda?? nganjdjiyolyolhme, ah, wularrud birlinj ngunda, blohbloh</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
