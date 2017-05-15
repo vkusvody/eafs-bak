@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-05-01T19:27:17+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-05-15T14:39:29+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/rec_2016/aud/ik160510-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160510-000.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:43873d4a-cf17-48a6-b9e8-7c77ed7442f4</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">159</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">162</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="52427"/>
@@ -215,7 +215,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts48">
-                <ANNOTATION_VALUE>nayi(?) kaddamarnakkinjkabukayinj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nayi kaddamarnakkinjkabukayinj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -250,7 +250,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE>kabunyikalng karlurru bardarnuk</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kabunyikalng karlurru bardarnuk bakki</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -310,12 +310,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a100" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
-                <ANNOTATION_VALUE>kungon kaddakalng</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kunkol kaddakalng</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a104" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
-                <ANNOTATION_VALUE>kaddakarrme la:: kabuddurnay la kaddanganjka la kirdimarrk yikabonj kaddanganjka</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kaddaworrmeng la:: kabuddurnay la kaddanganjka la kirdimarrk kikkabonj kaddanganjka</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -335,7 +335,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a116" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
-                <ANNOTATION_VALUE>kaddakalng ngorro kaddaworrmeng djininj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kaddakalng ngorro kaddaworrmeng birnungu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -355,7 +355,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a125" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
-                <ANNOTATION_VALUE>kaddangayingayidjinj kuddjak ngarrkibudduwanj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kaddangayingayidjinj kudjak ngarrkibudduwanj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -365,12 +365,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a129" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
-                <ANNOTATION_VALUE>kenda bonj karra ngudda yalbi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>karnda bonj karra ngudda yalbi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
-                <ANNOTATION_VALUE>Kuwarndom kaddayunganj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Kubardbangku kaddayunganj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -380,7 +380,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a135" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
-                <ANNOTATION_VALUE>marlengyununj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>narlengyunun</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -425,7 +425,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a155" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
-                <ANNOTATION_VALUE>Karrabbu Kuwarnbanku kaddawalkkingarlangwadji</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nukka ngorro Karrabbu Kubardbangku kaddangalkarlawadji</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -517,7 +517,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a28">
-                <ANNOTATION_VALUE>he took from him smokes(?) or something</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>he took from him whatsit, tobacco</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -572,7 +572,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a104">
-                <ANNOTATION_VALUE>they got [the firesticks?] and they saw them approaching and that mob was coming</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>they lit up [the paperbark torches] and they saw them approaching and that mob was coming</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -592,7 +592,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a116">
-                <ANNOTATION_VALUE>they got that and made a big fire</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>they got that/him[?] and made a fire for him</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -617,17 +617,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a127">
-                <ANNOTATION_VALUE>they came from far away</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>they came from there</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a129">
-                <ANNOTATION_VALUE>from here to your home</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>on the other side, in your country</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a131">
-                <ANNOTATION_VALUE>they were camping at Kuwarndom</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>they were camping at Kubardbangku</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -682,7 +682,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a155">
-                <ANNOTATION_VALUE>Ka. and Ku., they were sharing those lands</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>they share those two countries, K &amp; K</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -704,7 +704,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a21">
-                <ANNOTATION_VALUE>what is this word?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>that -kinjka- is actually djinga `close'; marnanj not explained yet, nor have I tried leaving either of them out</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -719,7 +719,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a28">
-                <ANNOTATION_VALUE>very confusing</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>probably spun chewing tobacco?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -729,7 +729,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a100">
-                <ANNOTATION_VALUE>check spelling</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -738,8 +738,23 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>-wurnanj? `warm oneself'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a116">
+                <ANNOTATION_VALUE>seems like there's some important mimdom</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a118">
                 <ANNOTATION_VALUE>maybe obj ngob</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE>kudjak = ok; kunmak</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -749,7 +764,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a155">
-                <ANNOTATION_VALUE>from here transcribe with SY</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
