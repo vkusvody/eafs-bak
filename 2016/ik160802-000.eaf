@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-04-25T19:53:15+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-05-18T13:04:29+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/rec_2016/aud/ik160802-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160802-000.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/rec_2016/aud/2016/ik160802-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160802-000.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6e76f454-30b1-4dc3-9887-2cb6b5b5bbdc</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">22</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">23</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="107641"/>
@@ -22,12 +22,14 @@
         <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="882673"/>
         <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="964709"/>
         <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="966867"/>
-        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="2993494"/>
-        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="2998731"/>
-        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="3063234"/>
-        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="3067313"/>
-        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="3135278"/>
-        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="3146107"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="2458840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="2471814"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="2993494"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="2998731"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="3063234"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="3067313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="3135278"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="3146107"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="Jonah Walamaka" TIER_ID="rf@A">
         <ANNOTATION>
@@ -71,17 +73,22 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>kuyi ngudda kinj-rnekbe nayi djang, ngarrkiwarrmi ngob, ngarrka ngorro ngarrkiwarrmi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
                 <ANNOTATION_VALUE>Kaddadjarrang nawanjak nayi kikakkin</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
                 <ANNOTATION_VALUE>kiddabularrbuni nayi kikakkin ngob</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
                 <ANNOTATION_VALUE>Kaddadjarrang nawanjak nayi kikakkin la marrek kiddabularrbuni... kiddabularrbuni ngob nayi kikakkin</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
