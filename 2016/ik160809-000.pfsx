@@ -69,7 +69,7 @@
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>281592</Long>
+        <Long>543004</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -89,7 +89,7 @@
         </pref>
     </prefGroup>
     <pref key="MediaTime">
-        <Long>284151</Long>
+        <Long>545161</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
@@ -103,17 +103,17 @@
                 </prefList>
             </prefGroup>
         </prefGroup>
-        <pref key="MinimalSilenceDuration">
-            <Int>400</Int>
-        </pref>
-        <pref key="ManualNoiseThreshold">
-            <Double>0.05011872336272722</Double>
-        </pref>
         <pref key="NoiseThresholdSetManually">
             <Boolean>false</Boolean>
         </pref>
+        <pref key="ManualNoiseThreshold">
+            <Double>0.05011872336272723</Double>
+        </pref>
         <pref key="MinimalNonSilenceDuration">
             <Int>300</Int>
+        </pref>
+        <pref key="MinimalSilenceDuration">
+            <Int>400</Int>
         </pref>
     </prefGroup>
     <prefGroup key="TierHighlightColors"/>
@@ -154,33 +154,33 @@
         <pref key="Initials">
             <Int>75</Int>
         </pref>
+        <pref key="Comment">
+            <Int>75</Int>
+        </pref>
         <pref key="End Time">
             <Int>75</Int>
         </pref>
         <pref key="Start Time">
             <Int>75</Int>
         </pref>
-        <pref key="Comment">
-            <Int>75</Int>
+        <pref key="Recipient">
+            <Int>0</Int>
         </pref>
         <pref key="Thread">
             <Int>75</Int>
-        </pref>
-        <pref key="Recipient">
-            <Int>0</Int>
         </pref>
     </prefGroup>
     <pref key="ActiveRecognizerName">
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>282486</Long>
+        <Long>532399</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>370</Int>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>292565</Long>
+        <Long>545162</Long>
     </pref>
 </preferences>
