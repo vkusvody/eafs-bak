@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-05-02T19:01:16+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-05-24T19:23:40+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/rec_2016/aud/ik160712-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160712-000.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/CC9B-5F7F/recordings/aud/2016/ik160712-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160712-000.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:649f1a98-90c3-4e48-b43d-2da7f2e220b8</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">15</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">26</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="86906"/>
@@ -18,10 +18,22 @@
         <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="620028"/>
         <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="632659"/>
         <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="636816"/>
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="5448845"/>
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="5449871"/>
-        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="5471106"/>
-        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="5472040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="771104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="772460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="801394"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="802684"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="819525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="822472"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="863749"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="882355"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="948552"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="963986"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="1086827"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="1092170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="5448845"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="5449871"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="5471106"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="5472040"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -55,12 +67,37 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>karladbum</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ngalwundji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>mayi murrkidj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>kakarrmeng mayi murrkidj ngayi ngalwundji kabunbirrdjarrang</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>kabundjarrang korro kunbid ngaydju</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
                 <ANNOTATION_VALUE>kaburnbum</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
                 <ANNOTATION_VALUE>kabunbum</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -96,6 +133,26 @@
                 <ANNOTATION_VALUE>You paint me now, and I'll paint you tomorrow</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>s/he overheated it / overcooked it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>girl</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>potato</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>the girl grabbed the potato and it burnt her</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment">
         <ANNOTATION>
@@ -108,8 +165,20 @@
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="gl@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="pos@A"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>#mayi murrkidj kabunrladbum ngalwundji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>#the potato cooked the girl</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="comment@B"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@B" TIER_ID="wd@B"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@B" TIER_ID="mb@B"/>

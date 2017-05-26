@@ -1,29 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-05-20T13:08:54+09:30" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-05-19T18:34:25+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/rec_2016/aud/ik160518-001.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160518-001.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/CC9B-5F7F/recordings/aud/2016/ik160518-001.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160518-001.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f5162591-8543-49a2-8541-d7fea0475443</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">4</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">30</PROPERTY>
     </HEADER>
     <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3454718"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3455784"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="3553224"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="3565802"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1169650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1172281"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1196111"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="1198138"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="1201519"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="1206684"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1316156"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="1319183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="1321150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="1326215"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="1336122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="1339622"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="1369216"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="1372255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="1373130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="1378340"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="1378466"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="1380492"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="1384144"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="1386802"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="1388190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="1389690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="1389789"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="1390763"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="1434426"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="1437097"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="1441400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="1442886"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="1444267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="1447202"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="3454718"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="3455784"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="3553224"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="3565802"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="Jonah Walamaka" TIER_ID="rf@A">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Fred kaburnay Mary</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>karnay Mary. Nah </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>you and me, we are going to the beach</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>yuh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>that means we are going to the beach</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>yeah, I and that bloke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ngudda la ngayi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>ngudda la ngayi ngarrkika korro wadjbud</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
                 <ANNOTATION_VALUE>kaberrekbum</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
                 <ANNOTATION_VALUE>ngaberrekbunj kuyi kanjbaddarna</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Fred saw Mary</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>yes</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>you and I</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>you and I, we two (inclusive) are going to the beach</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>s/he promised someone</ANNOTATION_VALUE>
@@ -35,13 +125,81 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>JW corrects the pronouns</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" TIER_ID="wd@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="gl@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="pos@A"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" PARTICIPANT="ik" TIER_ID="rf@B"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" PARTICIPANT="ik" TIER_ID="trans@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" PARTICIPANT="ik" TIER_ID="rf@B">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>and if I say "Fred karnay Mary"?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ngudda ngayi ngarrkika korro wadjbud</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ngudda ngayi nganaka korro wadjbud</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ninda ngayi nganaka korro wadjbud</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ninda la ngayi nganaka korro wadjbud</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>yeah, I and that bloke</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ninda la ngayi ngarrkika korro wadjbud</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" PARTICIPANT="ik" TIER_ID="trans@B">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>you and I, we two (inclusive) are going to the beach</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>you and I, we two (exclusive) are going to the beach</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>he and I, we two (exclusive) are going to the beach</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>he and I, we two (exclusive) are going to the beach</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>he and I, we two (inclusive) are going to the beach</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="comment@B"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@B" PARTICIPANT="ik" TIER_ID="wd@B"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@B" TIER_ID="mb@B"/>
