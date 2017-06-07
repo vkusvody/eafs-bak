@@ -1,18 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-06-04T15:49:49+09:30" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-06-05T22:59:23+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/recordings/aud/2017/IK1-170525_2SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170525_2SY-01.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/CC9B-5F7F/recordings/aud/2017/IK1-170525_2SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170525_2SY-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f5e236d4-4277-43e6-9c70-8ff92f80610d</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">2</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="227188"/>
         <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="230635"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="384249"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="385960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="397531"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="400018"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="472396"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="477989"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="765018"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="770070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="801980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="805836"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="874360"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="877137"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="905675"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="908044"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="933472"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="938683"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>djanga ngaybu wularrud ngardulkkarrawarribin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ngayi kunaybu djanga</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>kalakalak kinaybu nayi djanga</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ka-ngan-rlemang kunbodme ngaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -22,14 +58,66 @@
                 <ANNOTATION_VALUE>My feet are tired</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>my chicken leg(s)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>S/he punched me in the back</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" TIER_ID="wd@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="gl@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="pos@A"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>*ngaybu djanga</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>*nayi durduk bi-ngaybu (ngayi) kadda-ngan-bum</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>*nayi durduk kin-ngaybu (ngayi) kadda-ngan-bum</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>*ka-rlemang kunbodme ngaybu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>intended: `my foot'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>intended: they hit my dog [with possessor raising]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>intended: they hit my dog [with possessor raising]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>intended: S/he punched my back / punched me in the back</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="comment@B"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@B" TIER_ID="wd@B"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@B" TIER_ID="mb@B"/>
