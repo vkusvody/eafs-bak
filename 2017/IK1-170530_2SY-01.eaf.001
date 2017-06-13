@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-06-06T19:16:57+09:30" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-06-08T13:49:35+09:30" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/recordings/aud/2017/IK1-170530_2SY_01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170530_2SY_01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:802d24a8-249c-4401-9774-6e075c9c7bb7</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">36</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">40</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="82340"/>
@@ -46,6 +46,10 @@
         <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="918858"/>
         <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="921312"/>
         <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="923746"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="953442"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="959955"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="976408"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="977395"/>
     </TIME_ORDER>
     <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="Solomon Yalbarr" TIER_ID="rf@A">
@@ -149,6 +153,16 @@
                 <ANNOTATION_VALUE>[manbala] barrayidjyidj kabarrabudji</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>manbala kirdimarrk ngobbu, nakudji kirdimarrk kaburlemang karra wumu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>kabunmimrlemang</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
@@ -159,6 +173,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a34">
                 <ANNOTATION_VALUE>two kids, they're fighting</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>s/he hit him/her in the eye</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -230,6 +249,11 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>iob1.34</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a37">
                 <ANNOTATION_VALUE>iob1.34</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>

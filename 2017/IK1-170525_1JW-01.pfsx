@@ -69,7 +69,7 @@
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>2606024</Long>
+        <Long>3479256</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -89,7 +89,7 @@
         </pref>
     </prefGroup>
     <pref key="MediaTime">
-        <Long>2606350</Long>
+        <Long>3479255</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
@@ -174,13 +174,13 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>2583942</Long>
+        <Long>3469335</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>370</Int>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>2611577</Long>
+        <Long>3482782</Long>
     </pref>
 </preferences>
