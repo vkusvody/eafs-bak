@@ -47,7 +47,7 @@
         <Int>0</Int>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>76.00001</Float>
+        <Float>76.0</Float>
     </pref>
     <prefGroup key="TierColors">
         <pref key="rf@A">
@@ -63,13 +63,13 @@
         <String>Recipient</String>
     </prefList>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,23</Object>
+        <Object class="java.awt.Point">0,30</Object>
     </pref>
     <pref key="GridViewer.TierName">
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>131407</Long>
+        <Long>6197</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -89,7 +89,7 @@
         </pref>
     </prefGroup>
     <pref key="MediaTime">
-        <Long>132340</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
@@ -119,13 +119,13 @@
     <prefGroup key="TierHighlightColors"/>
     <prefList key="TranscriptionTable.HiddenTiers"/>
     <pref key="MediaControlRate">
-        <Float>0.5</Float>
+        <Float>1.0</Float>
     </pref>
     <pref key="FrameSize">
         <Object class="java.awt.Dimension">1916,1048</Object>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>76.00001</Float>
+        <Float>76.0</Float>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -174,13 +174,13 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>118565</Long>
+        <Long>0</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
-        <Int>370</Int>
+        <Int>595</Int>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>132341</Long>
+        <Long>8105</Long>
     </pref>
 </preferences>
