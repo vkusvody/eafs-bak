@@ -38,7 +38,7 @@
     <prefGroup key="TranscriptionTable.TierMap"/>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <pref key="MediaControlVolume">
-        <Float>1.0</Float>
+        <Float>0.8</Float>
     </pref>
     <pref key="TM.SignalViewer.ZoomLevel">
         <Float>5.0</Float>
@@ -69,7 +69,7 @@
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>131407</Long>
+        <Long>368882</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -89,7 +89,7 @@
         </pref>
     </prefGroup>
     <pref key="MediaTime">
-        <Long>132340</Long>
+        <Long>371406</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
@@ -119,7 +119,7 @@
     <prefGroup key="TierHighlightColors"/>
     <prefList key="TranscriptionTable.HiddenTiers"/>
     <pref key="MediaControlRate">
-        <Float>0.5</Float>
+        <Float>1.0</Float>
     </pref>
     <pref key="FrameSize">
         <Object class="java.awt.Dimension">1916,1048</Object>
@@ -174,13 +174,13 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>118565</Long>
+        <Long>364636</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>370</Int>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>132341</Long>
+        <Long>371408</Long>
     </pref>
 </preferences>
