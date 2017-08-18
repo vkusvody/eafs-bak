@@ -65,11 +65,11 @@
         <pref key="gl@A">
             <Object class="java.awt.Color">51,102,255</Object>
         </pref>
-        <pref key="gl@B">
-            <Object class="java.awt.Color">255,204,51</Object>
-        </pref>
         <pref key="rf@A">
             <Object class="java.awt.Color">51,102,255</Object>
+        </pref>
+        <pref key="gl@B">
+            <Object class="java.awt.Color">255,204,51</Object>
         </pref>
         <pref key="wd@A">
             <Object class="java.awt.Color">51,102,255</Object>
@@ -102,19 +102,19 @@
     </prefList>
     <prefGroup key="TierFonts"/>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,23</Object>
+        <Object class="java.awt.Point">2,23</Object>
     </pref>
     <pref key="GridViewer.TierName">
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>213881</Long>
+        <Long>243380</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>214328</Long>
+        <Long>243985</Long>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="trsl@PN">
@@ -256,13 +256,13 @@
         <String>rf@A</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>203658</Long>
+        <Long>232690</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>434</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>216749</Long>
+        <Long>245314</Long>
     </pref>
 </preferences>
