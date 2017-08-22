@@ -1,2 +1,8 @@
 ## Needn't track wavs :)
 *.wav
+
+# nor emacs's temp files
+*~
+
+# nor mac's crazy shit
+._*
