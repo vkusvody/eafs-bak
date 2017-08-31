@@ -2,10 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1916,1048</Object>
-    </pref>
-    <pref key="MultiTierViewer.TierSortingMode">
-        <Int>1</Int>
+        <Object class="java.awt.Dimension">1926,1053</Object>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>0</Int>
@@ -16,14 +13,8 @@
     <pref key="MultiTierViewer.ActiveTierName">
         <String>rf@A</String>
     </pref>
-    <pref key="LayoutManager.MediaAreaHeight">
-        <Int>370</Int>
-    </pref>
     <pref key="SelectionEndTime">
-        <Long>3370630</Long>
-    </pref>
-    <pref key="SignalViewer.ZoomLevel">
-        <Float>76.00001</Float>
+        <Long>1424990</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -31,20 +22,6 @@
     <pref key="SignalViewer.VerticalZoomLevel">
         <Int>200</Int>
     </pref>
-    <prefGroup key="TranscriptionMode.Temp.TierColors">
-        <pref key="default">
-            <Object class="java.awt.Color">90,0,160</Object>
-        </pref>
-        <pref key="trsl@PN">
-            <Object class="java.awt.Color">160,0,0</Object>
-        </pref>
-        <pref key="gloss@PN">
-            <Object class="java.awt.Color">160,90,90</Object>
-        </pref>
-        <pref key="PN">
-            <Object class="java.awt.Color">160,90,90</Object>
-        </pref>
-    </prefGroup>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Sender">
             <Int>0</Int>
@@ -77,7 +54,6 @@
             <Int>75</Int>
         </pref>
     </prefGroup>
-    <prefGroup key="TierFonts"/>
     <prefList key="CommentViewer.Columns.Order">
         <String>Start Time</String>
         <String>End Time</String>
@@ -90,69 +66,40 @@
         <String>Creation Date</String>
         <String>Modification Date</String>
     </prefList>
-    <pref key="MediaControlVolume">
-        <Float>1.0</Float>
-    </pref>
     <pref key="GridViewer.TierName">
         <String>rf@A</String>
     </pref>
     <pref key="ActiveRecognizerName">
-        <String>Silence Recognizer MPI-PL</String>
+        <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,30</Object>
+        <Object class="java.awt.Point">-3,30</Object>
     </pref>
-    <pref key="TimeLineViewer.ZoomLevel">
-        <Float>76.00001</Float>
-    </pref>
-    <prefList key="TranscriptionTable.NonEditableTiers"/>
     <pref key="SelectionBeginTime">
-        <Long>3357880</Long>
-    </pref>
-    <prefGroup key="Silence Recognizer MPI-PL">
-        <pref key="MinimalNonSilenceDuration">
-            <Int>300</Int>
-        </pref>
-        <pref key="ManualNoiseThreshold">
-            <Double>0.05011872336272722</Double>
-        </pref>
-        <pref key="MinimalSilenceDuration">
-            <Int>400</Int>
-        </pref>
-        <prefGroup key="SelectionPanelPref">
-            <prefGroup key="Selections">
-                <prefList key="1">
-                    <Long>6980</Long>
-                    <Long>8060</Long>
-                </prefList>
-            </prefGroup>
-        </prefGroup>
-        <pref key="NoiseThresholdSetManually">
-            <Boolean>false</Boolean>
-        </pref>
-    </prefGroup>
-    <pref key="TM.SignalViewer.ZoomLevel">
-        <Float>5.0</Float>
+        <Long>1417010</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="source_audio">
-            <String>///home/vanya/exnewver_audio/ik_160424_001.wav</String>
-        </pref>
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
+        <pref key="source_audio">
+            <String>///run/media/vanya/912A-3DCA/recordings/aud/2017/IK1-170606_1SY-02.wav</String>
+        </pref>
     </prefGroup>
-    <prefList key="MultiTierViewer.HiddenTiers"/>
-    <prefGroup key="TranscriptionTable.TierMap"/>
-    <pref key="MediaControlRate">
-        <Float>1.0</Float>
-    </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>3755720</Long>
+        <Long>1412125</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>-1</Long>
+        <Long>1417340</Long>
     </pref>
+    <prefGroup key="TierColors">
+        <pref key="rf@A">
+            <Object class="java.awt.Color">90,160,160</Object>
+        </pref>
+        <pref key="rf@B">
+            <Object class="java.awt.Color">160,0,90</Object>
+        </pref>
+    </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>
         <String>trans@A</String>
@@ -169,15 +116,6 @@
         <String>gl@B</String>
         <String>pos@B</String>
     </prefList>
-    <prefGroup key="TierColors">
-        <pref key="rf@A">
-            <Object class="java.awt.Color">160,90,90</Object>
-        </pref>
-        <pref key="rf@B">
-            <Object class="java.awt.Color">90,0,90</Object>
-        </pref>
-    </prefGroup>
-    <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>70</Int>
     </pref>
@@ -185,5 +123,4 @@
         <String>Sender</String>
         <String>Recipient</String>
     </prefList>
-    <prefList key="TranscriptionTable.HiddenTiers"/>
 </preferences>
