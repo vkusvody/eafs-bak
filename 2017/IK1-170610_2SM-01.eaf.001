@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-08-31T19:35:20+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-09-04T19:47:52+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///run/media/vanya/912A-3DCA/recordings/vid/2017/IK1-170610_2SM-01.mp4" MEDIA_URL="file:///run/media/vanya/912A-3DCA/recordings/aud/2017/IK1-170610_2SM-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170610_2SM-01.wav" TIME_ORIGIN="18895"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/recordings/vid/2017/IK1-170610_2SM-01.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../vid/2017/IK1-170610_2SM-01.mp4"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///Volumes/Untitled/recordings/vid/2017/IK1-170610_2SM-01.mp4" MEDIA_URL="file:///Volumes/Untitled/recordings/aud/2017/IK1-170610_2SM-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170610_2SM-01.wav" TIME_ORIGIN="18895"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/recordings/vid/2017/IK1-170610_2SM-01.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../vid/2017/IK1-170610_2SM-01.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:726dcbb5-11d6-45dc-babb-c94022aaeda4</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">216</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">234</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="6197"/>
@@ -355,8 +355,36 @@
         <TIME_SLOT TIME_SLOT_ID="ts346" TIME_VALUE="676307"/>
         <TIME_SLOT TIME_SLOT_ID="ts347" TIME_VALUE="676340"/>
         <TIME_SLOT TIME_SLOT_ID="ts348" TIME_VALUE="676893"/>
-        <TIME_SLOT TIME_SLOT_ID="ts349" TIME_VALUE="728446"/>
-        <TIME_SLOT TIME_SLOT_ID="ts350" TIME_VALUE="730038"/>
+        <TIME_SLOT TIME_SLOT_ID="ts349" TIME_VALUE="723722"/>
+        <TIME_SLOT TIME_SLOT_ID="ts350" TIME_VALUE="726735"/>
+        <TIME_SLOT TIME_SLOT_ID="ts351" TIME_VALUE="728446"/>
+        <TIME_SLOT TIME_SLOT_ID="ts352" TIME_VALUE="730038"/>
+        <TIME_SLOT TIME_SLOT_ID="ts353" TIME_VALUE="732144"/>
+        <TIME_SLOT TIME_SLOT_ID="ts354" TIME_VALUE="734539"/>
+        <TIME_SLOT TIME_SLOT_ID="ts355" TIME_VALUE="734630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts356" TIME_VALUE="736209"/>
+        <TIME_SLOT TIME_SLOT_ID="ts357" TIME_VALUE="736723"/>
+        <TIME_SLOT TIME_SLOT_ID="ts358" TIME_VALUE="737841"/>
+        <TIME_SLOT TIME_SLOT_ID="ts359" TIME_VALUE="873933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts360" TIME_VALUE="875552"/>
+        <TIME_SLOT TIME_SLOT_ID="ts361" TIME_VALUE="974920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts362" TIME_VALUE="978420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts363" TIME_VALUE="985460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts364" TIME_VALUE="988236"/>
+        <TIME_SLOT TIME_SLOT_ID="ts365" TIME_VALUE="1122262"/>
+        <TIME_SLOT TIME_SLOT_ID="ts366" TIME_VALUE="1128854"/>
+        <TIME_SLOT TIME_SLOT_ID="ts367" TIME_VALUE="1181249"/>
+        <TIME_SLOT TIME_SLOT_ID="ts368" TIME_VALUE="1187170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts369" TIME_VALUE="1190052"/>
+        <TIME_SLOT TIME_SLOT_ID="ts370" TIME_VALUE="1191618"/>
+        <TIME_SLOT TIME_SLOT_ID="ts371" TIME_VALUE="1365959"/>
+        <TIME_SLOT TIME_SLOT_ID="ts372" TIME_VALUE="1369538"/>
+        <TIME_SLOT TIME_SLOT_ID="ts373" TIME_VALUE="1370012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts374" TIME_VALUE="1375170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts375" TIME_VALUE="1402947"/>
+        <TIME_SLOT TIME_SLOT_ID="ts376" TIME_VALUE="1406236"/>
+        <TIME_SLOT TIME_SLOT_ID="ts377" TIME_VALUE="1474973"/>
+        <TIME_SLOT TIME_SLOT_ID="ts378" TIME_VALUE="1476328"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="George Manmurulk" TIER_ID="rf@A">
         <ANNOTATION>
@@ -541,7 +569,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
-                <ANNOTATION_VALUE>la nayi kabbal??? kadja nayi kangundje yimarne djambakkang, nayi kaburrk</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>la nayi kabbal kadja nayi kangundje yimarne djambakkang, ngayi kaburrk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -641,7 +669,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a131" TIME_SLOT_REF1="ts218" TIME_SLOT_REF2="ts221">
-                <ANNOTATION_VALUE>ngurnda kidda??? kulkkulk mandjad, karlu</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngurnda ki-kidang kulkkulk mandjad, karlu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -809,8 +837,54 @@
                 <ANNOTATION_VALUE>bonj!</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a217" TIME_SLOT_REF1="ts349" TIME_SLOT_REF2="ts350">
+                <ANNOTATION_VALUE>but kukka ngundje ngarrkngundje lowlow, or birlinj?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a218" TIME_SLOT_REF1="ts353" TIME_SLOT_REF2="ts354">
+                <ANNOTATION_VALUE>nganjwardam ngayi ngana kanganyakbum</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a219" TIME_SLOT_REF1="ts357" TIME_SLOT_REF2="ts358">
+                <ANNOTATION_VALUE>Naragoidj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a221" TIME_SLOT_REF1="ts359" TIME_SLOT_REF2="ts360">
+                <ANNOTATION_VALUE>manda mayi welenj kaka kulkkulk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a223" TIME_SLOT_REF1="ts363" TIME_SLOT_REF2="ts364">
+                <ANNOTATION_VALUE>ngurnda mandjad kika kulkkulk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a226" TIME_SLOT_REF1="ts369" TIME_SLOT_REF2="ts370">
+                <ANNOTATION_VALUE>kabarradjanganj Naragoidj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a232" TIME_SLOT_REF1="ts375" TIME_SLOT_REF2="ts376">
+                <ANNOTATION_VALUE>karlu bonj, njunjuk ngondo bonj, kundjelhmi, kunmak</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a233" TIME_SLOT_REF1="ts377" TIME_SLOT_REF2="ts378">
+                <ANNOTATION_VALUE>ngarrkrnadjiyi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a233">
+                <ANNOTATION_VALUE>mirror</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a8">
@@ -844,7 +918,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a88">
-                <ANNOTATION_VALUE>check: kabbal?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>check: kabbal? nayi/ngayi (kaburrk)?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -859,7 +933,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a131">
-                <ANNOTATION_VALUE>check: kidda??? kulkkulk</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>check: ki-kidang?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -920,6 +994,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a200">
                 <ANNOTATION_VALUE>[mandjard]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a226">
+                <ANNOTATION_VALUE>[kabArre-]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -1349,8 +1428,38 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a216" TIME_SLOT_REF1="ts349" TIME_SLOT_REF2="ts350">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a216" TIME_SLOT_REF1="ts351" TIME_SLOT_REF2="ts352">
                 <ANNOTATION_VALUE>la ngarrkibudduwardam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a220" TIME_SLOT_REF1="ts355" TIME_SLOT_REF2="ts356">
+                <ANNOTATION_VALUE>yoh, kinjmarnanjbunj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a222" TIME_SLOT_REF1="ts361" TIME_SLOT_REF2="ts362">
+                <ANNOTATION_VALUE>ngurnda mandjad kingale, karlu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a224" TIME_SLOT_REF1="ts365" TIME_SLOT_REF2="ts366">
+                <ANNOTATION_VALUE>korro djakku, nukka nadjurrkmi kakarrme[?], la korro...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a228" TIME_SLOT_REF1="ts367" TIME_SLOT_REF2="ts368">
+                <ANNOTATION_VALUE>Budawin karna, but kayuwa hospital, kawarrmi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a229" TIME_SLOT_REF1="ts371" TIME_SLOT_REF2="ts372">
+                <ANNOTATION_VALUE>kangale wokka, bonj, nadjurrkmi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a230" TIME_SLOT_REF1="ts373" TIME_SLOT_REF2="ts374">
+                <ANNOTATION_VALUE>la ngayi karlu, ngurnda ngarrakarrme nayi nadjurrkmi, nukka nayi bonj, nuk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -1424,6 +1533,16 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a211">
                 <ANNOTATION_VALUE>check: la</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a224">
+                <ANNOTATION_VALUE>check: ngawarrme? kawarre? what?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a230">
+                <ANNOTATION_VALUE>check: nuk?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
