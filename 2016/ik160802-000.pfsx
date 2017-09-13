@@ -20,13 +20,16 @@
         <Int>370</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>2471814</Long>
+        <Long>675353</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>76.0</Float>
+        <Float>76.00001</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
+    </pref>
+    <pref key="SignalViewer.VerticalZoomLevel">
+        <Int>200</Int>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="default">
@@ -100,11 +103,11 @@
         <Object class="java.awt.Point">0,30</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>76.0</Float>
+        <Float>76.00001</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <pref key="SelectionBeginTime">
-        <Long>2458840</Long>
+        <Long>673722</Long>
     </pref>
     <prefGroup key="Silence Recognizer MPI-PL">
         <pref key="MinimalNonSilenceDuration">
@@ -145,10 +148,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>2453716</Long>
+        <Long>743181</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>2472019</Long>
+        <Long>765322</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>
