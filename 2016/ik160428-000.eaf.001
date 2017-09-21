@@ -1,52 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-09-21T19:19:30+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-09-19T20:10:47+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/recordings/aud/2016/ik160618-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160618-000.wav"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3c072423-9646-422c-a61f-2070de4e89ca</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">6</PROPERTY>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/recordings/aud/2016/ik160428-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160428-000.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3175d006-82a9-4276-a4a3-4565f2b92fd5</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">2</PROPERTY>
     </HEADER>
     <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2496643"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2498761"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2667618"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2672684"/>
-        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2738301"/>
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="2740867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="395209"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="399578"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="462319"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="467425"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>yes: ngawuy birnungu bakki</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nakudji kirdimarrk kakelkkuyi korro office</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>ngayi bingaybu karrard kangunuy ngudda bonj</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>kangunuy ngayi ngudda bonj</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>kakelkkuyi korro office, kabihbunj djurra</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>I gave him/her tobacco for someone else</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>my mother gave [me] to you</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>s/he gave me to you</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" TIER_ID="wd@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
