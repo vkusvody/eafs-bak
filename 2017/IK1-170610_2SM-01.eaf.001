@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-09-25T19:39:29+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-09-27T14:42:38+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///run/media/vanya/912A-3DCA/recordings/vid/2017/IK1-170610_2SM-01.mp4" MEDIA_URL="file:///run/media/vanya/912A-3DCA/recordings/aud/2017/IK1-170610_2SM-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170610_2SM-01.wav" TIME_ORIGIN="18895"/>
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/recordings/vid/2017/IK1-170610_2SM-01.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../vid/2017/IK1-170610_2SM-01.mp4"/>
@@ -1215,7 +1215,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
-                <ANNOTATION_VALUE>kinda ngorro ka...??</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kinda ngorro kaburnbunj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1245,7 +1245,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
-                <ANNOTATION_VALUE>kabirrinja yiwanj karnak...?? mandjad</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kabirrinja yiwanj karnakngale mandjad</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1584,7 +1584,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a73">
-                <ANNOTATION_VALUE>check</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>check: kaburnbunj?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1594,7 +1594,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a92">
-                <ANNOTATION_VALUE>check: karnakrna rleng???</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>check: karnakngale?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

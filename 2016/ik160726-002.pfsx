@@ -20,7 +20,7 @@
         <Int>370</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>80163</Long>
+        <Long>41650</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>76.00001</Float>
@@ -107,7 +107,7 @@
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <pref key="SelectionBeginTime">
-        <Long>79018</Long>
+        <Long>34190</Long>
     </pref>
     <prefGroup key="Silence Recognizer MPI-PL">
         <pref key="MinimalNonSilenceDuration">
@@ -148,10 +148,10 @@
     </pref>
     <prefGroup key="TranscriptionTable.TierMap"/>
     <pref key="TimeScaleBeginTime">
-        <Long>64308</Long>
+        <Long>26282</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>80220</Long>
+        <Long>34230</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="rf@A">
