@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-09-19T17:57:11+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-10-23T20:25:11+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/recordings/aud/2017/IK1-170615_1SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170615_1SY-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d36d6cad-f454-48d2-a423-22fc38bb9d6f</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">30</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">31</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="60973"/>
@@ -127,32 +127,32 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
-                <ANNOTATION_VALUE>Bardarnuk kikalng kekkek?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Bardarnungu kikalng kekkek?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
-                <ANNOTATION_VALUE>Ngangunda yimarnek nakarrken kikarrme</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ngangunda yimarnek nakarrken kikarrmeng</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
-                <ANNOTATION_VALUE>Bardarnuk kikalng nayi barbung?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Bardarnungu kikalng nayi barbung?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
-                <ANNOTATION_VALUE>Kangunda yimarne pussycat kakarrme</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Kangunda yimarne pussycat kakarrmeng</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
-                <ANNOTATION_VALUE>Babi la kabunwardam, Bardarnuk kikalng nayi carrot?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Babi la kabunwardam, Bardarnungu kikalng nayi carrot?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
-                <ANNOTATION_VALUE>ngangunda yimarnek rabbit kikarrme</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngangunda yimarnek rabbit kikarrmeng</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -207,6 +207,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a20">
                 <ANNOTATION_VALUE>*kirrikarrme; *kikarrmili </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>switch to reported speech!!!</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
