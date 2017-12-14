@@ -60,13 +60,13 @@
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>2971890</Long>
+        <Long>2895585</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>3086013</Long>
+        <Long>2895585</Long>
     </pref>
     <pref key="FrameSize">
         <Object class="java.awt.Dimension">1916,1050</Object>
@@ -118,9 +118,12 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>3070330</Long>
+        <Long>2887965</Long>
+    </pref>
+    <pref key="LayoutManager.MediaAreaHeight">
+        <Int>336</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>2973850</Long>
+        <Long>2904865</Long>
     </pref>
 </preferences>
