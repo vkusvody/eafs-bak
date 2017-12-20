@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-11-17T14:26:19+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-12-20T13:58:39+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/recordings/aud/2017/IK1-170522_1SM-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170522_1SM-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:21160e48-db64-41b6-b281-68bd82654245</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">10</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">18</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1046873"/>
@@ -20,6 +20,14 @@
         <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="1334013"/>
         <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="1491751"/>
         <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="1493856"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="1761898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="1764056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="1766214"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="1768833"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="2689974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="2693079"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="2734727"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="2745990"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -57,6 +65,26 @@
                 <ANNOTATION_VALUE>manda mayi neyang manaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>yimarne kangundje mulubin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>yimarne kangundje mulubin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>manda mayi kundulk kakarrme marleng mayi...</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>kakarrme  marleng mayi burru, la karlu mayi maworord</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
@@ -72,6 +100,26 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a4">
                 <ANNOTATION_VALUE>my</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>red</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>red</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>this tree has got many...</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>it's got many branches, but no leaves</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
