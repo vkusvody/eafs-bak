@@ -66,7 +66,7 @@
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>2895585</Long>
+        <Long>0</Long>
     </pref>
     <pref key="FrameSize">
         <Object class="java.awt.Dimension">1916,1050</Object>
