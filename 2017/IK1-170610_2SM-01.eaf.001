@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-12-18T14:28:22+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-05-03T19:57:31+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///Volumes/Untitled/recordings/vid/2017/IK1-170610_2SM-01.mp4" MEDIA_URL="file:///Volumes/Untitled/recordings/aud/2017/IK1-170610_2SM-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170610_2SM-01.wav" TIME_ORIGIN="18895"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/recordings/vid/2017/IK1-170610_2SM-01.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../vid/2017/IK1-170610_2SM-01.mp4"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///Volumes/2TB6/recordings/vid/2017/IK1-170610_2SM-01.mp4" MEDIA_URL="file:///Volumes/2TB6/recordings/aud/2017/IK1-170610_2SM-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170610_2SM-01.wav" TIME_ORIGIN="18895"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB6/recordings/vid/2017/IK1-170610_2SM-01.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="../../vid/2017/IK1-170610_2SM-01.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:726dcbb5-11d6-45dc-babb-c94022aaeda4</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">252</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">258</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="6197"/>
@@ -411,6 +411,14 @@
         <TIME_SLOT TIME_SLOT_ID="ts402" TIME_VALUE="1525235"/>
         <TIME_SLOT TIME_SLOT_ID="ts403" TIME_VALUE="1525610"/>
         <TIME_SLOT TIME_SLOT_ID="ts404" TIME_VALUE="1528110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts405" TIME_VALUE="1592753"/>
+        <TIME_SLOT TIME_SLOT_ID="ts406" TIME_VALUE="1594134"/>
+        <TIME_SLOT TIME_SLOT_ID="ts407" TIME_VALUE="1594562"/>
+        <TIME_SLOT TIME_SLOT_ID="ts408" TIME_VALUE="1595391"/>
+        <TIME_SLOT TIME_SLOT_ID="ts409" TIME_VALUE="1595542"/>
+        <TIME_SLOT TIME_SLOT_ID="ts410" TIME_VALUE="1595950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts411" TIME_VALUE="1597062"/>
+        <TIME_SLOT TIME_SLOT_ID="ts412" TIME_VALUE="1600746"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="George Manmurulk" TIER_ID="rf@A">
         <ANNOTATION>
@@ -525,7 +533,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
-                <ANNOTATION_VALUE>?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngayi marnakkudji</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -928,8 +936,23 @@
                 <ANNOTATION_VALUE>ngurnda kibirrinjin, karlu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a253" TIME_SLOT_REF1="ts405" TIME_SLOT_REF2="ts406">
+                <ANNOTATION_VALUE>kunkudji kunbid</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a254" TIME_SLOT_REF1="ts409" TIME_SLOT_REF2="ts410">
+                <ANNOTATION_VALUE>yoh</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>I've got only one</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a126">
                 <ANNOTATION_VALUE>the road, it's like stairs, you know?</ANNOTATION_VALUE>
@@ -955,11 +978,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a24">
                 <ANNOTATION_VALUE>[inje]</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a52">
-                <ANNOTATION_VALUE>???</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1480,7 +1498,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a211" TIME_SLOT_REF1="ts341" TIME_SLOT_REF2="ts342">
-                <ANNOTATION_VALUE>kunmak ngob [la]? merrek barda ngemek kiwohyu korro welenj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kunmak ngob [la]? merrek barda ngemek kiwohyung korro welenj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1563,11 +1581,26 @@
                 <ANNOTATION_VALUE>la barda ngemek kinda kikarrme?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a255" TIME_SLOT_REF1="ts407" TIME_SLOT_REF2="ts408">
+                <ANNOTATION_VALUE>djal bonj?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a256" TIME_SLOT_REF1="ts411" TIME_SLOT_REF2="ts412">
+                <ANNOTATION_VALUE>ngayi nukka kaburrk bala nakudji kabakkidja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a238">
                 <ANNOTATION_VALUE>you first</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a256">
+                <ANNOTATION_VALUE>in my picture, there are three of them</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -1639,7 +1672,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a211">
-                <ANNOTATION_VALUE>check: la</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>check: la; -yu or -yung?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

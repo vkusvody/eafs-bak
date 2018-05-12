@@ -78,7 +78,7 @@
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>400866</Long>
+        <Long>411641</Long>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="trsl@PN">
@@ -177,7 +177,7 @@
         <String>rf@A</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>389822</Long>
+        <Long>391801</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="LayoutManager.MediaAreaHeight">

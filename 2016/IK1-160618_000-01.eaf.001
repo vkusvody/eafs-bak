@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-09-23T10:18:35+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-03-29T16:19:48+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/recordings/aud/2016/ik160618-000.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik160618-000.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/recordings/aud/2016/IK1-160618_000-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160618_000-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:3c072423-9646-422c-a61f-2070de4e89ca</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">17</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">20</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1826710"/>
@@ -24,6 +24,10 @@
         <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="2672684"/>
         <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="2738301"/>
         <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="2740867"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="2793976"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="2796726"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="2797272"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="2800049"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -66,6 +70,11 @@
                 <ANNOTATION_VALUE>kangunuy ngayi ngudda bonj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>kunj kanganmarnanjbum ngayi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
@@ -98,6 +107,11 @@
                 <ANNOTATION_VALUE>s/he gave me to you</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>s/he killed a roo for me</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" TIER_ID="wd@A"/>
@@ -108,6 +122,11 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
                 <ANNOTATION_VALUE>ngudda kinjdjinj kinjweddjuwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>*? kunj kamarnanjbum bingaybu ngayi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>

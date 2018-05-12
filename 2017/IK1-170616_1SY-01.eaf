@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-09-18T19:29:59+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-01-31T19:29:15+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/recordings/aud/2017/IK1-170616_1SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170616_1SY-01.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/Untitled/recordings/aud/2017/IK1-170616_1SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170616_1SY-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b8c2dd21-a7e5-4c55-bb29-8d2a9d8a23be</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">19</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">27</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="71038"/>
@@ -38,6 +38,14 @@
         <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="549604"/>
         <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="652539"/>
         <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="655328"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="1639940"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="1650809"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="1654455"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="1666455"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="2143915"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="2157665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="2493101"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="2496470"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -120,6 +128,26 @@
                 <ANNOTATION_VALUE>Mary kinkodjkodjburrinj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ninda ngurnda 6 ft kinkukkarlyung, karlu, ninda kindjurrkmi, yimarne 4 ft</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>yiwanj nabarridbe balmad kukka ngorro kanjkukkarlyungmi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>ninda nawanjak bonjbonj ngurnda kikidang school nabarridbe balmad kanjka skul</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ngawarrenj ngawanjbikanginj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
@@ -135,6 +163,26 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a15">
                 <ANNOTATION_VALUE>Mary is smart</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>he's not 6 ft tall, no, he's short, like 4 ft</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>perhaps next year he'll grow tall</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>he's still small, doesn't go to school, next year he will go to school</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>I was holding [him/her]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
