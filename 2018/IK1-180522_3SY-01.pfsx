@@ -63,19 +63,19 @@
     </prefList>
     <prefGroup key="TierFonts"/>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,30</Object>
+        <Object class="java.awt.Point">0,23</Object>
     </pref>
     <pref key="GridViewer.TierName">
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>203249</Long>
+        <Long>108721</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>205445</Long>
+        <Long>114286</Long>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="trsl@PN">
@@ -174,13 +174,13 @@
         <String>rf@A</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>192538</Long>
+        <Long>99820</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>370</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>205447</Long>
+        <Long>114287</Long>
     </pref>
 </preferences>
