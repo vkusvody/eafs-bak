@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-07-27T12:38:11+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-07-29T20:12:53+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///media/2TB6/recordings/aud/2018/IK1-180608_1PN-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-180608_1PN-01.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///media/2TB5/recordings/aud/2018/IK1-180608_1PN-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-180608_1PN-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:356d876c-adc5-4b6b-8155-5df2a556b805</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">20</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">42</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1746460"/>
@@ -26,6 +26,28 @@
         <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="2295245"/>
         <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="2301400"/>
         <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="2308190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="2340420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="2343600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="2357625"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="2368095"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="2546150"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="2547820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="2590490"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="2591690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="2612770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="2616500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="2619280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="2623030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="2676760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="2677910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="2827460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="2829370"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="2884910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="2887460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="2901040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="2905390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="2991710"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="2994070"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -58,6 +80,56 @@
                 <ANNOTATION_VALUE>kanjka, ngadbe merrek kingaddumidjbu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>kanjbaddaka, merrek kibangarrunmidjbu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>kibangarrunmidjbu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>kanjbarrangunmidjbunj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>kanjnguddumidjbunj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>kanjngungunmidjbunj ngudda nabuk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>kanjngungunmidjbunj ngudda nabuk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>kanjbaddanganmidjbunj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>yoh: ngayi nabuk nganjdjika</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>benenka ngalbuk kanjbangarrunmidjbunj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>kabangarrunmidjbunj ngayi nabuk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
@@ -68,6 +140,21 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a10">
                 <ANNOTATION_VALUE>now they two are going, they're not waiting for us (incl)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>they will go, they're not waiting for us</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>"two people or big mob, they can go"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>they mob will be waiting for you mob</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -85,6 +172,46 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a17">
                 <ANNOTATION_VALUE>3sg.irr.np&gt;1du.excl.obj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>3nsg.f&gt;2nsg.obj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>3sg.f&gt;2pl.obj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>3sg.f&gt;2du.obj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>repeat of previous</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>intended: 3pl.f&gt;1pl.excl.obj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>intr 1du.excl.f</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>3du.f&gt;1du.excl.obj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>I think PN slipped into the present tense at this point, rather than the future</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -111,6 +238,11 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
                 <ANNOTATION_VALUE>ok: kanjka la merrek kingarrkunmidjbu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ok: kanjngunmidjbunj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
