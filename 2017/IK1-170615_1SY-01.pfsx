@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="MediaTime">
-        <Long>333130</Long>
+        <Long>297516</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>default</String>
@@ -40,7 +40,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///Volumes/2TB6/recordings/aud/2017/IK1-170615_1SY-01.wav</String>
+            <String>///Volumes/2TB5/recordings/aud/2017/IK1-170615_1SY-01.wav</String>
         </pref>
     </prefGroup>
     <pref key="LayoutManager.SelectedTabIndex">
@@ -103,15 +103,15 @@
         </pref>
     </prefGroup>
     <pref key="SelectionBeginTime">
-        <Long>333130</Long>
+        <Long>297518</Long>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>329872</Long>
+        <Long>290727</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>341525</Long>
+        <Long>300847</Long>
     </pref>
 </preferences>

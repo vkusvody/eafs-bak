@@ -77,7 +77,7 @@
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>212666</Long>
+        <Long>322330</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -91,7 +91,7 @@
         </pref>
     </prefGroup>
     <pref key="MediaTime">
-        <Long>214691</Long>
+        <Long>325008</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
@@ -179,7 +179,7 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>209006</Long>
+        <Long>318996</Long>
     </pref>
     <pref key="ActiveAudioRecognizerName">
         <String>Text-to-Speech alignment</String>
@@ -189,6 +189,6 @@
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>214692</Long>
+        <Long>325009</Long>
     </pref>
 </preferences>
