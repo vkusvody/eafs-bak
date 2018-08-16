@@ -36,7 +36,7 @@
         <Int>200</Int>
     </pref>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>2</Int>
+        <Int>70</Int>
     </pref>
     <prefGroup key="TranscriptionTable.TierMap"/>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
@@ -72,7 +72,7 @@
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>775255</Long>
+        <Long>2833726</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -92,7 +92,7 @@
         </pref>
     </prefGroup>
     <pref key="MediaTime">
-        <Long>776846</Long>
+        <Long>2834606</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
@@ -177,13 +177,13 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>759605</Long>
+        <Long>2822976</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>370</Int>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>776847</Long>
+        <Long>2835595</Long>
     </pref>
 </preferences>

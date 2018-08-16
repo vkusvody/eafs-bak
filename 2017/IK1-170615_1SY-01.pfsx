@@ -12,7 +12,7 @@
         <String>pos@A</String>
     </prefList>
     <pref key="MediaTime">
-        <Long>260853</Long>
+        <Long>99116</Long>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -33,7 +33,7 @@
         <Int>70</Int>
     </pref>
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1835,1028</Object>
+        <Object class="java.awt.Dimension">1882,1057</Object>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -59,7 +59,7 @@
         <String>Recipient</String>
     </prefList>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">10,52</Object>
+        <Object class="java.awt.Point">28,23</Object>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Modification Date">
@@ -103,15 +103,15 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>260854</Long>
+        <Long>99118</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>257366</Long>
+        <Long>97954</Long>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>270788</Long>
+        <Long>114170</Long>
     </pref>
 </preferences>
