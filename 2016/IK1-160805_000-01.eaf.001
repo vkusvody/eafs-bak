@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-08-29T15:56:01+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-08-29T18:42:07+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB5/recordings/aud/2016/IK1-160805_000-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160805_000-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d75f8258-5b79-4b78-bd24-c7a20c4ba9e6</PROPERTY>
@@ -173,7 +173,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a32">
-                <ANNOTATION_VALUE>no, Jane cooked it</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>no, it was Jane who cooked it</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
