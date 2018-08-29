@@ -1,29 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2016-08-11T10:20:18+09:30" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-08-29T15:56:06+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/912A-3DCA/rec_2016/aud/IK1-160805_000-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160805_000-01.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB5/recordings/aud/2016/IK1-160805_000-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160805_000-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d75f8258-5b79-4b78-bd24-c7a20c4ba9e6</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">4</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">33</PROPERTY>
     </HEADER>
     <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="4728999"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="4749999"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4751947"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4753657"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="64156"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="66077"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="119918"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="125840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="211122"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="216030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="484491"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="489991"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="545779"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="551542"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="903288"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="911893"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="915636"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="918267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="1001281"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="1003860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="1056329"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="1058579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="1132042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="1140699"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="1248341"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="1250789"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="1367711"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="1389014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="2332610"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="2347505"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="2885939"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="2902413"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="2971055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="2973568"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="3060841"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="3063881"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="4728999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="4749999"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="4751947"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="4753657"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="Solomon Yalbarr" TIER_ID="rf@A">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Mary kakinjang birradja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>barda Mary kakinjang, ngulamngulam?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ok: Mary ngulamngulam kakinjang barda?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>birlinj nayi kanak kakinjang birradja?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>birlinj nayi kanak Mary kakinjang birradja?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ngaburrbunj Mary kakinjang</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ok: ngaburrbunj mayi Mary kakinjang</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ok: ngawakwanj mayi Mary kakinjang</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ngaburrbunj nayi kakinjang birradja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ngawakwanj nakaybi kakinjang mayi birradja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>Mary kakinjang mayi birradja la ngawakwanj birlinjnuk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>manda nakaybi kakinjang mayi birradja, kukka ngundje Mary</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>karlu, Jane kakinjang</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ngondo kunmanjwarri</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
                 <ANNOTATION_VALUE>dukulu karlakwang bingaybu nayi ngakodjkodjrdayi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
                 <ANNOTATION_VALUE>ngakodjkodjrdayi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Mary cooked rice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>what did Mary cook in the morning?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>what time did s/he cook the rice?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>I know what Mary cooked</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>I know what Mary cooked</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>I don't know what Mary cooked</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>I know who cooked the rice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>I don't know who cooked the rice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Mary cooked rice but I don't know when</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>no, it was Jane who cooked it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>this [e.g. tea] is not sweet enough</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>wind threw my hat off</ANNOTATION_VALUE>
@@ -40,8 +197,30 @@
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="gl@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="pos@A"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>*: ngaburrbunj barda Mary kakinjang</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>ok: ngaburrbunj nakaybi kakinjang birradja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>intended: I know what Mary cooked</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>I know who cooked the rice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="comment@B"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@B" TIER_ID="wd@B"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@B" TIER_ID="mb@B"/>
