@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-08-15T15:24:40+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-10-14T18:26:44+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB5/recordings/aud/2017/IK1-170615_1SY-02.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170615_1SY-02.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:62df20be-8a65-4a95-aa30-05c00f2cb997</PROPERTY>
@@ -207,7 +207,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
-                <ANNOTATION_VALUE>manda mandjelmi la kaworrhngunj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>manda mandjelmi la kaworlngunj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>

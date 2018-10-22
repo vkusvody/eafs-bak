@@ -32,7 +32,7 @@
         <Int>70</Int>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
-        <Int>7</Int>
+        <Int>0</Int>
     </pref>
     <prefGroup key="TierColors">
         <pref key="A_Transcription-txt-wlg">
@@ -53,16 +53,19 @@
         <String>Recipient</String>
     </prefList>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">379,70</Object>
+        <Object class="java.awt.Point">170,70</Object>
+    </pref>
+    <pref key="GridViewer.TierName">
+        <String>A_Transcription-txt-wlg</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>390097</Long>
+        <Long>428210</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>390756</Long>
+        <Long>453725</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
@@ -71,7 +74,7 @@
         <Float>1.0</Float>
     </pref>
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1493,911</Object>
+        <Object class="java.awt.Dimension">1702,947</Object>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -123,10 +126,10 @@
         <Int>173</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>380027</Long>
+        <Long>449950</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>390757</Long>
+        <Long>431140</Long>
     </pref>
 </preferences>

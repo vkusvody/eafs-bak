@@ -72,13 +72,13 @@
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>1163194</Long>
+        <Long>1147569</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>1169798</Long>
+        <Long>1110946</Long>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="trsl@PN">
@@ -177,13 +177,13 @@
         <String>rf@A</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>1154812</Long>
+        <Long>1103973</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>370</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1169799</Long>
+        <Long>1147569</Long>
     </pref>
 </preferences>
