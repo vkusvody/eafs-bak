@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-10-22T20:36:20+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-10-23T11:19:33+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///media/vanya/2TB6/recordings/aud/2017/IK1-170620_1SY-02.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170620_1SY-02.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a3fdc370-b6c5-4c78-a377-792eade1be4c</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">63</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">100</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="31684"/>
@@ -52,12 +52,40 @@
         <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="481969"/>
         <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="523058"/>
         <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="524374"/>
-        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="1934536"/>
-        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="1940075"/>
-        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="1977089"/>
-        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="1986654"/>
-        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="2068500"/>
-        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="2083960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="547591"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="549525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="558460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="559736"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="621170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="622683"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="628643"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="630091"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="736846"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="737596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="792631"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="793763"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="809388"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="810664"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="828611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="830019"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="862960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="864144"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="886111"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="887137"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="938894"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="944947"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="956097"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="961861"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="969893"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="975157"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="980986"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="986447"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="1934536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="1940075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="1977089"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="1986654"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="2068500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="2083960"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -176,12 +204,82 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>ngayi nganjrdukkume</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>kanganjdukulungale</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>nganjderrekkenrdam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>nganjdangarlakka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>mandemday</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>ngarrkilarlma</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>ngarrklarlmey</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>ngarrklarlmey</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>ngarnaklorrebirrdjung</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>ngarnakrluy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>kabarrakaburrkrdukkume</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>kabarrakaburrkrninganj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>kabarrakaburrkrdam</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>kabarrakaburrkrlakwang</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
                 <ANNOTATION_VALUE>ngamabulunj nganjmarnbunj kabikabi, la kikarrme mayi mankukkarlyung mayi kundulk?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
                 <ANNOTATION_VALUE>ngamabulunj mayi kaburrk bala mankudji feet mankukkarlyung</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -270,6 +368,66 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a58">
                 <ANNOTATION_VALUE>we were sitting</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>the wind is coming</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>I'll spread out [a blanket]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>I'll hang it [on the clothesline]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>ankle</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>we are dividing smth</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>we divided it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>I just swept the floor</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>I just cried</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>they two are cutting it together</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>they two were sitting together</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>they two are putting it down</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>they two threw it</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -369,6 +527,61 @@
                 <ANNOTATION_VALUE>krn</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>njrd</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>njd</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>not sure what the first consonant of the prepound should be like, /d/ or /rd/</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>nd</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>rrkl; notice also the unusual past tense</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>kl</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>krl</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>rrkrd</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>rrkrn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>rrkrd</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>rrkrl</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" TIER_ID="wd@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
@@ -376,7 +589,7 @@
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="pos@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
                 <ANNOTATION_VALUE>?/*: birlinj manbakkarlyung manda kundulk?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
