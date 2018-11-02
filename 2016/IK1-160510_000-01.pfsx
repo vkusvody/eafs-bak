@@ -74,16 +74,16 @@
         <Object class="java.awt.Point">41,23</Object>
     </pref>
     <pref key="GridViewer.TierName">
-        <String>trans@A</String>
+        <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>322330</Long>
+        <Long>138909</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>322330</Long>
+        <Long>140050</Long>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="rf@A">
@@ -179,7 +179,7 @@
         <String>rf@A</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>320088</Long>
+        <Long>134494</Long>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="LayoutManager.MediaAreaHeight">
@@ -189,6 +189,6 @@
         <String>Text-to-Speech alignment</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>325009</Long>
+        <Long>140051</Long>
     </pref>
 </preferences>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-10-23T11:19:33+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-10-30T17:39:37+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///media/vanya/2TB6/recordings/aud/2017/IK1-170620_1SY-02.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170620_1SY-02.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB6/recordings/aud/2017/IK1-170620_1SY-02.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170620_1SY-02.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a3fdc370-b6c5-4c78-a377-792eade1be4c</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">100</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">101</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="31684"/>
@@ -104,7 +104,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a101" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
                 <ANNOTATION_VALUE>ngarnilmaddjiyinj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
