@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-10-09T17:40:44+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-13T21:45:09+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB5/recordings/aud/2018/IK1-180529_1SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-180529_1SY-01.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///media/vanya/2TB5/recordings/aud/2018/IK1-180529_1SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-180529_1SY-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c75d9cb5-a324-4a18-bb27-26dc1cfe3012</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">40</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">45</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="388234"/>
@@ -42,6 +42,10 @@
         <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="7067746"/>
         <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="7127745"/>
         <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="7132192"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="7171145"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="7173619"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="7211178"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="7224507"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -109,11 +113,26 @@
                 <ANNOTATION_VALUE>ngudda kinjrdokme la kabarrangunmidjbunj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>ngudda kinjrdokme la kaddangunmidjbunj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ngudda nabuk ngundjirdokme la kabarrngunmidjbunj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a37">
                 <ANNOTATION_VALUE>the mother left the child with them and went to hospital, later she will return</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>pack the swags you mob!</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -191,6 +210,16 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a39">
                 <ANNOTATION_VALUE>3du.nf&gt;2sg.obj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>3pl.nf&gt;2sg.obj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>3nsg.nf&gt;2.nsg.obj; SY makes it clear that it's kabarr-, not kabarra-</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
