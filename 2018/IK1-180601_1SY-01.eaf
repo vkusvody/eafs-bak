@@ -1,15 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-09-12T18:09:17+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-21T12:16:43+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB5/recordings/aud/2018/IK1-180601_1SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-180601_1SY-01.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///media/vanya/2TB5/recordings/aud/2018/IK1-180601_1SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-180601_1SY-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d18fe7f2-6408-498a-a696-08a7769dd26c</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2149770"/>
         <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2151270"/>
         <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2167170"/>
         <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2169512"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2301328"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="2305512"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="2328229"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="2334611"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="2428801"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="2435709"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="2454840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="2456932"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="2470840"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="2474458"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="2524578"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="2533052"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="2589242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="2592413"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="2597921"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="2602342"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="4290748"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="4299156"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="4301051"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="4306577"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="4316663"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="4321229"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="4476056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="4483267"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="4592718"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="4596862"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="4612652"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="4614323"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="4803702"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="4805439"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="4914299"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="4918483"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="4928880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="4931328"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -22,11 +56,91 @@
                 <ANNOTATION_VALUE>karlu, kangunmarnanjdjarrang</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ngadjarrang mayi manungu kandiddjawa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ngawarribodjarrang: yimarnek manaybu la mukka manungu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ngadjarrang kandiddjawa mayi manungu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ngadjarrang mayi manungu mayi kandiddjawa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ngadjarrang manungu mayi kandiddjawa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ngunda ngaykala barbung la mankarangkad ngakalng</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ngunda ngaykala barbung la mankarangkad ngakalng</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ninda ngunda kingayi Kunbarlang la nganjmarnanjwokdja balanda</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>nganjlerrkwalkkiwonj birnungu balanda</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>birnungu balanda</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>nganjwalkkiwonj binungku lerrk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>djamun kabunbalkkirnay kunbareng</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>kabunbardiwalkkirnay kunbareng</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>s/he ate it on you / to your detriment</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>I ate his biscuit</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>I ate the wrong one: I thought it was mine, but it was his</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -35,8 +149,35 @@
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="gl@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="pos@A"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ok: ngadjarrang mayi kandiddjawa manungu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>*: ngadjarrang kandiddjawa manungu mayi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>*: ngadjarrang manungu kandiddjawa mayi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>*: ngakalng karlu barbung la mankarangkad</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>intended: I caught not fish but a stingray</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="comment@B"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@B" TIER_ID="wd@B"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@B" TIER_ID="mb@B"/>

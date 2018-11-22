@@ -20,7 +20,7 @@
         <Int>206</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>4296161</Long>
+        <Long>1721537</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>76.00001</Float>
@@ -100,14 +100,14 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">10,90</Object>
+        <Object class="java.awt.Point">10,118</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>76.00001</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <pref key="SelectionBeginTime">
-        <Long>4294556</Long>
+        <Long>1719774</Long>
     </pref>
     <prefGroup key="Silence Recognizer MPI-PL">
         <pref key="MinimalNonSilenceDuration">
@@ -148,10 +148,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>4287326</Long>
+        <Long>1719564</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>4296258</Long>
+        <Long>1719814</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>default</String>
