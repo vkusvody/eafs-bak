@@ -60,13 +60,13 @@
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>2041130</Long>
+        <Long>2612655</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
     </pref>
     <pref key="MediaTime">
-        <Long>2041130</Long>
+        <Long>2614045</Long>
     </pref>
     <pref key="FrameSize">
         <Object class="java.awt.Dimension">1912,1050</Object>
@@ -76,7 +76,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///Volumes/2TB5/recordings/aud/2018/IK1-180608_1PN-01.wav</String>
+            <String>///Volumes/2TB6/recordings/aud/2018/IK1-180608_1PN-01.wav</String>
         </pref>
     </prefGroup>
     <pref key="MultiTierViewer.ActiveTierName">
@@ -118,9 +118,9 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>2038200</Long>
+        <Long>2605795</Long>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>2042420</Long>
+        <Long>2614045</Long>
     </pref>
 </preferences>
