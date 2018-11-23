@@ -63,7 +63,7 @@
         <String>rf@A</String>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>339295</Long>
+        <Long>207109</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -83,7 +83,7 @@
         </pref>
     </prefGroup>
     <pref key="MediaTime">
-        <Long>339295</Long>
+        <Long>210291</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
@@ -171,13 +171,13 @@
         <Int>3</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>330308</Long>
+        <Long>197412</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>370</Int>
     </pref>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="SelectionEndTime">
-        <Long>343900</Long>
+        <Long>210293</Long>
     </pref>
 </preferences>
