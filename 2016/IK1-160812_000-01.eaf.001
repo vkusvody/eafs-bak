@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-08-01T18:50:29+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-24T19:15:05+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB5/recordings/aud/2016/IK1-160812_000-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160812_000-01.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB6/recordings/aud/2016/IK1-160812_000-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160812_000-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5717edff-14eb-4634-afce-3d1bb8654fdb</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">26</PROPERTY>
     </HEADER>

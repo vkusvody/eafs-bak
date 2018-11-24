@@ -92,7 +92,7 @@
         </pref>
     </prefGroup>
     <pref key="MediaTime">
-        <Long>2680436</Long>
+        <Long>2679621</Long>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
@@ -177,7 +177,7 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>2669358</Long>
+        <Long>2669096</Long>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>370</Int>
