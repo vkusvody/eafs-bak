@@ -1,51 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-28T13:38:44+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-28T10:16:26+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///media/vanya/2TB5/recordings/aud/2016/IK1-160822_000-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160822_000-01.wav"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:49cfc5e7-fa89-454c-8a11-e28e38a77fbb</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">6</PROPERTY>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///media/vanya/2TB5/recordings/aud/2018/IK1-180521_1SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-180521_1SY-01.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a4f2ee8b-630e-492a-af46-ef950833d6e3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">9</PROPERTY>
     </HEADER>
     <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="362286"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="365182"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="456641"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="459943"/>
-        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="470127"/>
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="475802"/>
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="689731"/>
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="699766"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1296078"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1297302"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1437208"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="1438853"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="1461471"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="1462694"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1502391"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="1503654"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="1515288"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="1516196"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>karlu, kakinjang kikakkin</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>kinjngunj nabuk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>yidok Mary kakinjang bonjbonj mayi birradja?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>njanrnanj ngayi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>yidok manda Mary kakinjang mayi birradja balkkime?</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>kinganrnanj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>nakaybinuk nayi kamangarninjdjanganj kanganrluklung, la ngawakwanj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kanjyuwa kirnanj!</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>kanjyuwa kinganrnanj!</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>did Mary cook rice again?</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>give it to him!</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>someone who was singing woke me up, but I don't know [who that was]</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>you keep on looking at me</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>don't stare at him/her/it!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>don't look at me!</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
