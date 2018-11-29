@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-29T17:52:47+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-30T01:33:15+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB6/recordings/aud/2017/IK1-170620_1SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170620_1SY-01.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///media/vanya/2TB5/recordings/aud/2017/IK1-170620_1SY-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170620_1SY-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:952a72a9-b2b6-414e-b3bd-ba5ee75a8f38</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">3</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">11</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="322020"/>
@@ -12,6 +12,16 @@
         <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="335835"/>
         <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="625128"/>
         <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="635612"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="749805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="751289"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="763628"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="771435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="778797"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="779991"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="783305"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="787757"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="821515"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="825370"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -24,8 +34,39 @@
                 <ANNOTATION_VALUE>ok: ngamabulunj ngondo lerrk kuyi barrayidjyidj kaddakali</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ngayi ngardukkumung</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ngardukkumiyinj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ngayi ngayawanj doctor la ngardukkumiyinj</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>I cut him/her/it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>I cut myself</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>I am looking for a doctor because I cut myself</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" TIER_ID="wd@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
@@ -35,6 +76,16 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>?/*: kaddakalng kirdimarrk kangandarlakwang</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ok: ngayawanj nayi doctor nayi ngayi ngardukkumung </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>*: ngayawanj nayi doctor nayi ngayi ngardukkumiyinj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
