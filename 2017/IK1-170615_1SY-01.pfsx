@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
-    <pref key="MediaTime">
-        <Long>99115</Long>
-    </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>default</String>
         <String>rf@A</String>
@@ -32,17 +29,6 @@
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>70</Int>
     </pref>
-    <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1882,1057</Object>
-    </pref>
-    <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="base_url">
-            <String>http://lux17.mpi.nl/aamlr/</String>
-        </pref>
-        <pref key="source_audio">
-            <String>///Volumes/2TB5/recordings/aud/2017/IK1-170615_1SY-01.wav</String>
-        </pref>
-    </prefGroup>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>0</Int>
     </pref>
@@ -61,15 +47,32 @@
     <pref key="FrameLocation">
         <Object class="java.awt.Point">28,23</Object>
     </pref>
-    <pref key="ActiveRecognizerName">
-        <String>AAM-LR Phone level audio segmentation</String>
-    </pref>
     <pref key="GridViewer.TierName">
         <String>rf@A</String>
     </pref>
-    <pref key="MultiTierViewer.ActiveTierName">
-        <String>default</String>
+    <pref key="SelectionBeginTime">
+        <Long>123295</Long>
     </pref>
+    <pref key="LayoutManager.CurrentMode">
+        <Int>1</Int>
+    </pref>
+    <pref key="MediaTime">
+        <Long>123295</Long>
+    </pref>
+    <pref key="MediaControlRate">
+        <Float>1.0</Float>
+    </pref>
+    <pref key="FrameSize">
+        <Object class="java.awt.Dimension">1882,1057</Object>
+    </pref>
+    <prefGroup key="AAM-LR Phone level audio segmentation">
+        <pref key="base_url">
+            <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>///Volumes/2TB6/recordings/aud/2017/IK1-170615_1SY-01.wav</String>
+        </pref>
+    </prefGroup>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Modification Date">
             <Int>75</Int>
@@ -102,16 +105,16 @@
             <Int>75</Int>
         </pref>
     </prefGroup>
-    <pref key="SelectionBeginTime">
-        <Long>99118</Long>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>default</String>
+    </pref>
+    <pref key="ActiveRecognizerName">
+        <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>86025</Long>
-    </pref>
-    <pref key="LayoutManager.CurrentMode">
-        <Int>1</Int>
+        <Long>119434</Long>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>114170</Long>
+        <Long>132953</Long>
     </pref>
 </preferences>
