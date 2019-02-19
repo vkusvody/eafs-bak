@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-04-23T18:00:13+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-02-10T13:19:26+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB6/recordings/aud/2016/IK1-160503_000-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160503_000-01.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB5/recordings/aud/2016/IK1-160503_000-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160503_000-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f7cbd544-4b23-446a-8b10-846bf24c7a45</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">28</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">34</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1384426"/>
@@ -44,6 +44,12 @@
         <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="3834044"/>
         <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="3876478"/>
         <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="3884705"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="4199482"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="4200830"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="4369179"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="4371785"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="4431246"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="4432776"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -106,6 +112,21 @@
                 <ANNOTATION_VALUE>ngayi ngabudduwarribowuy nayi djarrang</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ok: ngabuddukudjiwuy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>ngawuy nakudjikudji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ngabudduwohwuy</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
@@ -141,6 +162,21 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a17">
                 <ANNOTATION_VALUE>i gave them the wrong one</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>I gave them [something] once</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>I gave him one at a time [?]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>I gave them part of something</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
