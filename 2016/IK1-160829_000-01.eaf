@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-09-12T13:04:21+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-02-19T13:12:22+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB5/recordings/aud/2016/IK1-160829_000-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160829_000-01.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///media/vanya/2TB5/recordings/aud/2016/IK1-160829_000-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160829_000-01.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:edc00e41-d4f4-4fe3-9dab-b7e6c94c0bea</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">26</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">31</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="384242"/>
@@ -40,6 +40,12 @@
         <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="3256543"/>
         <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="3265405"/>
         <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="3266734"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="4400421"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="4405356"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="4476130"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="4478025"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="4616801"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="4618472"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
@@ -117,6 +123,16 @@
                 <ANNOTATION_VALUE>ninda ngarlemang</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>ninda merrek marrkidjbu</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ngayi ngabbard ninda</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
@@ -154,6 +170,16 @@
                 <ANNOTATION_VALUE>I punched him at home</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>he's not a witch doctor</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>my father here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment">
         <ANNOTATION>
@@ -175,6 +201,11 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
                 <ANNOTATION_VALUE>nakaybi nayi kirdimarrk kirlemang?</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>*: ninda karlu marrkidjbu nayi ngabbard rnungu kawarrenj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
