@@ -36,7 +36,7 @@
         <Int>385</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>96456</Long>
+        <Long>174643</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>76.00001</Float>
@@ -129,7 +129,7 @@
         <Object class="java.awt.Rectangle">810,390,300,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>94456</Long>
+        <Long>166064</Long>
     </pref>
     <prefGroup key="Silence Recognizer MPI-PL">
         <pref key="MinimalNonSilenceDuration">
@@ -186,10 +186,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>83904</Long>
+        <Long>158801</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>94496</Long>
+        <Long>166104</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>
