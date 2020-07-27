@@ -33,10 +33,10 @@
         <String>rf@A</String>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
-        <Int>158</Int>
+        <Int>429</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>2496289</Long>
+        <Long>511925</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>74.0</Float>
@@ -110,7 +110,7 @@
         <Float>1.0</Float>
     </pref>
     <pref key="GridViewer.TierName">
-        <String>rf@A</String>
+        <String>rf@B</String>
     </pref>
     <pref key="ActiveRecognizerName">
         <String>Silence Recognizer MPI-PL</String>
@@ -129,7 +129,7 @@
         <Object class="java.awt.Rectangle">810,390,300,300</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>2494667</Long>
+        <Long>509438</Long>
     </pref>
     <prefGroup key="Silence Recognizer MPI-PL">
         <pref key="MinimalNonSilenceDuration">
@@ -186,10 +186,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>2487256</Long>
+        <Long>502344</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>2494667</Long>
+        <Long>511938</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>

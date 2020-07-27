@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1850,1028</Object>
+        <Object class="java.awt.Dimension">1366,740</Object>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
@@ -23,10 +23,10 @@
         <Int>12</Int>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
-        <Int>370</Int>
+        <Int>332</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>278063</Long>
+        <Long>188933</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>190.0</Float>
@@ -44,7 +44,7 @@
     </prefGroup>
     <prefGroup key="CommentViewer.Columns">
         <pref key="Sender">
-            <Int>0</Int>
+            <Int>75</Int>
         </pref>
         <pref key="Comment">
             <Int>75</Int>
@@ -59,7 +59,7 @@
             <Int>75</Int>
         </pref>
         <pref key="Recipient">
-            <Int>0</Int>
+            <Int>75</Int>
         </pref>
         <pref key="Start Time">
             <Int>75</Int>
@@ -97,7 +97,7 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">41,52</Object>
+        <Object class="java.awt.Point">0,54</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>190.0</Float>
@@ -112,7 +112,7 @@
         </pref>
     </prefGroup>
     <pref key="SelectionBeginTime">
-        <Long>274684</Long>
+        <Long>186802</Long>
     </pref>
     <prefGroup key="Silence Recognizer MPI-PL">
         <pref key="MinimalNonSilenceDuration">
@@ -153,10 +153,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>271887</Long>
+        <Long>184663</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>274724</Long>
+        <Long>189102</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>
@@ -186,9 +186,6 @@
     <pref key="LayoutManager.SplitPaneDividerLocation">
         <Int>70</Int>
     </pref>
-    <prefList key="CommentViewer.Columns.Hidden">
-        <String>Sender</String>
-        <String>Recipient</String>
-    </prefList>
+    <prefList key="CommentViewer.Columns.Hidden"/>
     <prefList key="TranscriptionTable.HiddenTiers"/>
 </preferences>
