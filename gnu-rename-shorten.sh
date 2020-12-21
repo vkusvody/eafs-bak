@@ -5,7 +5,9 @@
 for name in ./*
 do
     newname=$(echo $name | sed 's/IK1-\([0-9]*\)_\([0-9A-Za-z]*\)-0\([1-5]\)/IK1-\1_\2\3/')
-    git mv $name $newname
+    git mv -k $name $newname
+    # and now to also rename the untracked media
+    mv -n $name $newname
 done
 
 for eaf in ./*.eaf
