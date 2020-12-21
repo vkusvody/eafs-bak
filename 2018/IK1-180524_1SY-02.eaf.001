@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-26T16:26:03+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-05T19:57:13+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB6/recordings/aud/2018/IK1-180524_1SY-02.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-180524_1SY-02.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2018/IK1-180524_1SY-02.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-180524_1SY-02.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8a3839a2-f986-4722-8b69-3dfa56fe96dc</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
     </HEADER>
@@ -27,7 +27,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="1236216"/>
         <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="1241242"/>
         <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="2087331"/>
-        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="2093883"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="2092315"/>
         <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="2244560"/>
         <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="2246257"/>
         <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="2308249"/>

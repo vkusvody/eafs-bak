@@ -20,7 +20,7 @@
         <String>A_Transcription-txt-wlg</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>114690</Long>
+        <Long>24960</Long>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -79,7 +79,7 @@
         <Object class="java.awt.Point">0,41</Object>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>113510</Long>
+        <Long>16640</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -94,10 +94,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>108280</Long>
+        <Long>16480</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>114710</Long>
+        <Long>17490</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>Interlinear-title-en</String>

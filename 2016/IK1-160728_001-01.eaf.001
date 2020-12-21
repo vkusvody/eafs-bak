@@ -1,49 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-09T07:40:19+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-10T04:42:04+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2018/IK1-180525_1DDj-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-180525_1DDj-01.wav"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c6a513b5-61e7-4bd3-83e1-d08cd707a270</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">5</PROPERTY>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2016/IK1-160728_001-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160728_001-01.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:9ebde3a6-3f1f-4470-ba2d-11e6df27552e</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">2</PROPERTY>
     </HEADER>
     <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1758476"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1760673"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1780879"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="1786024"/>
-        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="1909369"/>
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="1911912"/>
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1955458"/>
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="1957023"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="26104"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="28880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="29828"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="32012"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
-                <ANNOTATION_VALUE>merrek karra kenda ngarrakidang</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kaddakelkkidanj kulkkulk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>*: ngarrakidang merrek karra kenda</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>ngarrakudji ngarninganj,  merrek nakaybi ngayrnani</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
-                <ANNOTATION_VALUE>merrek nakaybi ngayrnani</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>kaddanganjkelkkidanj kulkkulk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
-                <ANNOTATION_VALUE>I can't go anywhere</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" TIER_ID="wd@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>

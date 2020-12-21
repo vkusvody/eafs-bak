@@ -14,7 +14,7 @@
         <String>rf@A</String>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>3425526</Long>
+        <Long>968998</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>88.000015</Float>
@@ -82,7 +82,7 @@
         <Float>88.000015</Float>
     </pref>
     <pref key="SelectionBeginTime">
-        <Long>3424049</Long>
+        <Long>963998</Long>
     </pref>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="base_url">
@@ -96,10 +96,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>3417873</Long>
+        <Long>959561</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>3425599</Long>
+        <Long>-1</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>
