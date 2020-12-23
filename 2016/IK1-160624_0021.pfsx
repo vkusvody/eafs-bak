@@ -116,7 +116,7 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">2,23</Object>
+        <Object class="java.awt.Point">1920,27</Object>
     </pref>
     <pref key="Interlinear.SelectionOnly">
         <Boolean>false</Boolean>
@@ -183,10 +183,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>272032</Long>
+        <Long>272013</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>285781</Long>
+        <Long>-6726</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>
