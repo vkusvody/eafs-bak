@@ -109,6 +109,9 @@
     <pref key="SelectionBeginTime">
         <Long>1423157</Long>
     </pref>
+    <pref key="DetachedEditor.Bounds">
+        <Object class="java.awt.Rectangle">533,234,300,300</Object>
+    </pref>
     <prefGroup key="Silence Recognizer MPI-PL">
         <pref key="MinimalNonSilenceDuration">
             <Int>300</Int>
@@ -151,7 +154,7 @@
         <Long>1416493</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>-1</Long>
+        <Long>1423157</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>

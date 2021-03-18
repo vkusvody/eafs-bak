@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1916,1028</Object>
+        <Object class="java.awt.Dimension">1366,740</Object>
     </pref>
     <pref key="MultiTierViewer.TierSortingMode">
         <Int>1</Int>
@@ -20,7 +20,7 @@
         <Int>405</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>3576762</Long>
+        <Long>3173907</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>96.000015</Float>
@@ -104,7 +104,7 @@
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <pref key="SelectionBeginTime">
-        <Long>3568578</Long>
+        <Long>3166144</Long>
     </pref>
     <prefGroup key="Silence Recognizer MPI-PL">
         <pref key="MinimalNonSilenceDuration">
@@ -145,10 +145,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>3570729</Long>
+        <Long>3163687</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>3571628</Long>
+        <Long>3174094</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>
@@ -176,7 +176,7 @@
     </prefGroup>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>44</Int>
+        <Int>35</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>

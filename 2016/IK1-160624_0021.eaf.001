@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-08-14T22:34:03+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-10T06:45:17+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2016/IK1-160624_002-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160624_002-01.wav" TIME_ORIGIN="6725"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/vid/2016/IK1-160624_002-01.m4v" MIME_TYPE="unknown" RELATIVE_MEDIA_URL="../../vid/2016/IK1-160624_002-01.m4v"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2016/IK1-160624_0021.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160624_0021.wav" TIME_ORIGIN="6725"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/vid/2016/IK1-160624_0021.m4v" MIME_TYPE="unknown" RELATIVE_MEDIA_URL="../../vid/2016/IK1-160624_0021.m4v"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:20a9bd36-10e8-4e0c-8cfe-02bbcb8e09a2</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">171</PROPERTY>
     </HEADER>
@@ -273,7 +273,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a122" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts127">
-                <ANNOTATION_VALUE>but kabarrangunda ``karlu'' ngayi two old people, oy kunmak ngaddarna</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>but kabarrangunda ``karlu'' ngayi two old people, bonj kunmak ngaddarna</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -719,12 +719,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a141" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts151">
-                <ANNOTATION_VALUE>nukka karlu djerli, nayi manberrk korro kayuwa</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nukka karlu djerli, nukka nayi manberrk korro kayuwa</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a142" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
-                <ANNOTATION_VALUE>kadjudjami nayi korro yirrk</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kadjudjamiyi nayi korro yirrk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

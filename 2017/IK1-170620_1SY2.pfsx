@@ -39,7 +39,7 @@
         <Int>274</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>37210</Long>
+        <Long>1986654</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>76.00001</Float>
@@ -119,7 +119,7 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">1920,0</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>76.00001</Float>
@@ -142,7 +142,7 @@
         <String>pos@B</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>31684</Long>
+        <Long>1977089</Long>
     </pref>
     <prefGroup key="Silence Recognizer MPI-PL">
         <pref key="MinimalNonSilenceDuration">
@@ -183,10 +183,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>26441</Long>
+        <Long>1973839</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>31684</Long>
+        <Long>1977089</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>

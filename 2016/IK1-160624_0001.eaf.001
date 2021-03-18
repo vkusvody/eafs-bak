@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-23T13:33:34+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-18T12:10:42+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -262,7 +262,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
                 TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
-                <ANNOTATION_VALUE>ngaddakidanj Monday night korro yiwarrudj ngaddardayinj?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ngaddakidanj Monday night ngorro yiwarrudj ngaddardayinj?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -286,7 +286,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
                 TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>marramalarrk and bedbe bonj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>marramalarrk ngemek ngadbe bonj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -400,7 +400,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
                 TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts64">
-                <ANNOTATION_VALUE>wukbonj kaddanganjkanginj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kubbunj kaddanganjkanginj   kirdimarrk kubbunj kaddanganjkanginj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -490,7 +490,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69"
                 TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
-                <ANNOTATION_VALUE>kukka ngorro kaddamangarninjdjanganj manderlenge mayi Nindji kaddamangarninjdjanganj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>mukka ngorro kaddamangarninjdjanganj manderlenge mayi Nindji kaddamangarninjdjanganj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -767,7 +767,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a8">
-                <ANNOTATION_VALUE>Monday night we went (in)to the church</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we arrived on Monday night and then we went (in)to the church</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -802,7 +802,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a32">
-                <ANNOTATION_VALUE>we sang enough?</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we sang enough? / some more?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -842,7 +842,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a49">
-                <ANNOTATION_VALUE>the men that brought him</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>in a canoe, Aboriginal men brought him in a canoe</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1014,33 +1014,13 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a32">
-                <ANNOTATION_VALUE>%@ is it yimarnek not ngemek?</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a49">
-                <ANNOTATION_VALUE>figure this all out</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a57">
                 <ANNOTATION_VALUE>so you can say `she' about a casuarina. John seems puzzled though</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a60">
-                <ANNOTATION_VALUE>use of barr!</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a66">
                 <ANNOTATION_VALUE>what's the argument structure of this verb?</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a75">
-                <ANNOTATION_VALUE>mne kazhetsya, k nim bol'she ne nuzhno xodit'</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1138,7 +1118,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
                 TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts63">
-                <ANNOTATION_VALUE>wukbonj kirdimarrk wukbonj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kubbunj kirdimarrk kubbunj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1168,7 +1148,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68"
                 TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
-                <ANNOTATION_VALUE>and nukka ngorro kaddamangarninjdjanganj nukka ngorro barda??</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>and mukka ngorro kaddamangarninjdjanganj mukka ngorro barda?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1378,11 +1358,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a58">
                 <ANNOTATION_VALUE>nice secondary predicate incorporation</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a68">
-                <ANNOTATION_VALUE>solomon sez, mukka is not a right word</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

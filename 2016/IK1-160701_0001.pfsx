@@ -20,13 +20,16 @@
         <Int>370</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>3091585</Long>
+        <Long>3200744</Long>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
         <Float>76.00001</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
+    </pref>
+    <pref key="SignalViewer.VerticalZoomLevel">
+        <Int>200</Int>
     </pref>
     <prefGroup key="TranscriptionMode.Temp.TierColors">
         <pref key="default">
@@ -91,7 +94,7 @@
         <Float>1.0</Float>
     </pref>
     <pref key="GridViewer.TierName">
-        <String>rf@B</String>
+        <String>rf@A</String>
     </pref>
     <pref key="ActiveRecognizerName">
         <String>Silence Recognizer MPI-PL</String>
@@ -104,7 +107,7 @@
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <pref key="SelectionBeginTime">
-        <Long>3088874</Long>
+        <Long>3197481</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">533,234,300,300</Object>
@@ -148,10 +151,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>3088664</Long>
+        <Long>3191106</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>3091624</Long>
+        <Long>3198329</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>

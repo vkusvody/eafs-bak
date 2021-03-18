@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2015-12-25T18:05:44+10:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-18T16:58:01+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Users/ikapitonov/wlg/field rec bak/arch/ik150801-004.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./ik150801-004.wav"/>
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2015/IK1-150801_1PN5.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-150801_1PN5.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6ae019a3-bb15-455e-887b-052a1e1afc3e</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">143</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">144</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="16640"/>
@@ -41,136 +45,160 @@
         <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="233555"/>
         <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="235065"/>
         <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="237420"/>
-        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="239580"/>
-        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="244310"/>
-        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="244310"/>
-        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="246970"/>
-        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="246970"/>
-        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="325410"/>
-        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="329000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="377605"/>
-        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="387385"/>
-        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="421575"/>
-        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="424385"/>
-        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="428210"/>
-        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="431140"/>
-        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="518525"/>
-        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="519795"/>
-        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="607480"/>
-        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="607480"/>
-        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="610530"/>
-        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="610530"/>
-        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="708685"/>
-        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="710895"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="237420"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="239580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="239580"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="244310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="244310"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="246970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="246970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="325410"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="329000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="377605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="387385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="421575"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="424385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="428210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="431140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="518525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="519795"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="607480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="607480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="610530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="610530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="708685"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="710895"/>
     </TIME_ORDER>
     <TIER LINGUISTIC_TYPE_REF="Phrases" PARTICIPANT="A" TIER_ID="A_Transcription-txt-wlg">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
                 <ANNOTATION_VALUE>ngudda la ngayi malayi nga-nganj-wonj nga-kelkkuyi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
                 <ANNOTATION_VALUE>ka-dja nawalak</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
                 <ANNOTATION_VALUE>ka-dja nawalak</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
                 <ANNOTATION_VALUE>ka-karrme nawalak</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
                 <ANNOTATION_VALUE>ka-dja nawalak</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
                 <ANNOTATION_VALUE>ka-barrken-yuwa</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts21">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts21">
                 <ANNOTATION_VALUE>ka-barrken-yuwa</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
                 <ANNOTATION_VALUE>man-korl</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
                 <ANNOTATION_VALUE>man-korl</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
                 <ANNOTATION_VALUE>man-korl</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
                 <ANNOTATION_VALUE>ka-rdam molek</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
                 <ANNOTATION_VALUE>karlabbuk, ki-rdam molek</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
                 <ANNOTATION_VALUE>karlabbuk, ki-rdam molek</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts37">
                 <ANNOTATION_VALUE>ka-yuwa, ki-rdam molek</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts39">
-                <ANNOTATION_VALUE>ka-... nga-yuwa, ki-rdam molek</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts41">
+                <ANNOTATION_VALUE>kanjyuwa ki-rdam molek</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
                 <ANNOTATION_VALUE>?, ki-rdam molek, ki-bunj ngurr dish</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
                 <ANNOTATION_VALUE>ka-rdam molek ka-bunj ngurr banikin</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
                 <ANNOTATION_VALUE>"Banikin" itself, it doesn't make a noise.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
                 <ANNOTATION_VALUE>bula</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts53">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts55">
                 <ANNOTATION_VALUE>nakaybi nayi kanjbelekkokdja, kinj-wunj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
                 <ANNOTATION_VALUE>ka-yuwa borrng</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="Words" PARENT_REF="A_Transcription-txt-wlg" PARTICIPANT="A" TIER_ID="A_Words-txt-wlg">
+    <TIER LINGUISTIC_TYPE_REF="Words"
+        PARENT_REF="A_Transcription-txt-wlg" PARTICIPANT="A" TIER_ID="A_Words-txt-wlg">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>ngudda</ANNOTATION_VALUE>
@@ -322,13 +350,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a24">
-                <ANNOTATION_VALUE>ka-...</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a24" PREVIOUS_ANNOTATION="a109">
-                <ANNOTATION_VALUE>nga-yuwa,</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>kanjyuwa</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -468,7 +491,8 @@
         </ANNOTATION>
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="Text" TIER_ID="Interlinear-title-en"/>
-    <TIER LINGUISTIC_TYPE_REF="Note" PARENT_REF="A_Transcription-txt-wlg" PARTICIPANT="A" TIER_ID="A_Translation-gls-en">
+    <TIER LINGUISTIC_TYPE_REF="Note"
+        PARENT_REF="A_Transcription-txt-wlg" PARTICIPANT="A" TIER_ID="A_Translation-gls-en">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>You and I will come back tomorrow and work.</ANNOTATION_VALUE>
@@ -541,7 +565,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a24">
-                <ANNOTATION_VALUE>He... I'm sleeping, don't make noise.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>don't make noise.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -570,7 +594,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="Note" PARENT_REF="A_Transcription-txt-wlg" PARTICIPANT="A" TIER_ID="A_Participant-note-en">
+    <TIER LINGUISTIC_TYPE_REF="Note"
+        PARENT_REF="A_Transcription-txt-wlg" PARTICIPANT="A" TIER_ID="A_Participant-note-en">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a1">
                 <ANNOTATION_VALUE>PN</ANNOTATION_VALUE>
@@ -679,12 +704,14 @@
     </TIER>
     <TIER LINGUISTIC_TYPE_REF="Phrases" PARTICIPANT="I" TIER_ID="I_Transcription-txt-wlg">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
                 <ANNOTATION_VALUE>Can you say: "Banikin ka-rdam molek"?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="Words" PARENT_REF="I_Transcription-txt-wlg" PARTICIPANT="I" TIER_ID="I_Words-txt-wlg">
+    <TIER LINGUISTIC_TYPE_REF="Words"
+        PARENT_REF="I_Transcription-txt-wlg" PARTICIPANT="I" TIER_ID="I_Words-txt-wlg">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a76">
                 <ANNOTATION_VALUE>Can</ANNOTATION_VALUE>
@@ -716,8 +743,10 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="Note" PARENT_REF="I_Transcription-txt-wlg" PARTICIPANT="I" TIER_ID="I_Translation-gls-en"/>
-    <TIER LINGUISTIC_TYPE_REF="Note" PARENT_REF="I_Transcription-txt-wlg" PARTICIPANT="I" TIER_ID="I_Participant-note-en">
+    <TIER LINGUISTIC_TYPE_REF="Note"
+        PARENT_REF="I_Transcription-txt-wlg" PARTICIPANT="I" TIER_ID="I_Translation-gls-en"/>
+    <TIER LINGUISTIC_TYPE_REF="Note"
+        PARENT_REF="I_Transcription-txt-wlg" PARTICIPANT="I" TIER_ID="I_Participant-note-en">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a76">
                 <ANNOTATION_VALUE>IK</ANNOTATION_VALUE>
@@ -726,44 +755,65 @@
     </TIER>
     <TIER ANNOTATOR="IK" LINGUISTIC_TYPE_REF="Phrases" TIER_ID="comment">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
                 <ANNOTATION_VALUE>1DuInclusive is ngarrk-, but in the recording even nga- is almost deleted.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE/>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
                 <ANNOTATION_VALUE>is this really a verb? Check.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts22">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
+                TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts22">
                 <ANNOTATION_VALUE>repeats slowly</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts38" TIME_SLOT_REF2="ts40">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a144"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>should be "kanjyuwa" (cf. next)</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
+                TIME_SLOT_REF1="ts40" TIME_SLOT_REF2="ts42">
                 <ANNOTATION_VALUE>self-repair</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts54">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
                 <ANNOTATION_VALUE>check the whole utterance</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
-    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Phrases" TIME_ALIGNABLE="true"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Blank" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Words" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Text" TIME_ALIGNABLE="true"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Note" TIME_ALIGNABLE="false"/>
-    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
-    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Phrases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Blank" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Words" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="Text" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="Note" TIME_ALIGNABLE="false"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
-    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
 </ANNOTATION_DOCUMENT>
