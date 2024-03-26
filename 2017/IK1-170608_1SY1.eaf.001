@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-30T16:20:09+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-24T14:40:34+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2017/IK1-170608_1SY1.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170608_1SY1.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8707b99d-16af-4529-b849-14aa14229633</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">18</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">23</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="437987"/>
@@ -28,8 +28,18 @@
         <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="1075818"/>
         <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="1129847"/>
         <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="1139387"/>
-        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="2668775"/>
-        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="2672880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="1371380"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="1378933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="1455118"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="1460947"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="1491525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="1496301"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="1517643"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="1522024"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="1557473"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="1560565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="2668775"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="2672880"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en"
         LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
@@ -70,8 +80,38 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
                 TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>benbe ninda ngunda kimabuluni kibuni ngurr</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>* benbe ngunda kimabuluni kabum ngurr</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>ngunda kimabuluni kibuni ngurr</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>babi la ngamarnanjngunda kabum ngurr</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>babi la ngamarnanjngunda kabum ngurr</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
                 <ANNOTATION_VALUE>kaddangunrnanj kekkek nungku</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>

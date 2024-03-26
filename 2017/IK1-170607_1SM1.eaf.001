@@ -1,65 +1,94 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2018-11-24T19:04:35+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-23T15:43:54+01:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///Volumes/2TB6/recordings/aud/2017/IK1-170607_1SM-01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170607_1SM-01.wav"/>
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2017/IK1-170607_1SM1.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170607_1SM1.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:aa8a1a46-3f83-4752-9b50-8aa3e6941f6b</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">22</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">27</PROPERTY>
     </HEADER>
     <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2936920"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2938578"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2948612"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2950460"/>
-        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="3034793"/>
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="3036464"/>
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3041971"/>
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="3044287"/>
-        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="3229028"/>
-        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="3234607"/>
-        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="3240606"/>
-        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="3245315"/>
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="3372879"/>
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="3379879"/>
-        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="3412472"/>
-        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="3420169"/>
-        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="3491313"/>
-        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="3500541"/>
-        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="3508251"/>
-        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="3523121"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2604212"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2610682"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2936920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2938578"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2948612"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="2950460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="3034793"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="3036464"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="3041971"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="3044287"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="3229028"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="3234607"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="3240606"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="3245315"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="3372879"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="3379879"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="3412472"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="3420169"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="3491313"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="3500541"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="3508251"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="3523121"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="3978984"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="3983075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="4068105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="4080772"/>
     </TIME_ORDER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>nukkadju djarrangalanj kenda ngunda kiwarre</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
                 <ANNOTATION_VALUE>kikka kaddakelkkidanj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
                 <ANNOTATION_VALUE>kikka kaddakelkkidanj ngob</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
                 <ANNOTATION_VALUE>nukkadju ngarnay</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
                 <ANNOTATION_VALUE>nukka rnungu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
                 <ANNOTATION_VALUE>burdubburdub kabunrnirlakka nayimbeyi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
                 <ANNOTATION_VALUE>la ngondo ngorro kakidanj nawukbonj bidju</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
+        PARENT_REF="rf@A" TIER_ID="trans@A">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>there's no boys like that here</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a2">
                 <ANNOTATION_VALUE>I saw that kind [e.g. of an animal]</ANNOTATION_VALUE>
@@ -81,40 +110,60 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
+        PARENT_REF="rf@A" TIER_ID="comment">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a14">
                 <ANNOTATION_VALUE>SM said -[rlakwa]</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" TIER_ID="wd@A"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx"
+        PARENT_REF="rf@A" TIER_ID="wd@A"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb"
+        PARENT_REF="wd@A" TIER_ID="mb@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="gl@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="pos@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
                 <ANNOTATION_VALUE>ok: kirdimarrk kardulkkarrawarribin marr nukka kadjung wirdidj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
                 <ANNOTATION_VALUE>ok: kirdimarrk kardulkkarrawarribin marr nabuk kadjung wirdidj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
                 <ANNOTATION_VALUE>*: kirdimarrk kardulkkarrawarribin warri nabukma kadjung wirdidj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
                 <ANNOTATION_VALUE>ok: kirdimarrk kardulkkarrawarribin warri nabukbonj kadjung wirdidj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>kaddarnakkali kaburrk mayi sandwich ngorro kaddawudji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>ok: kaddababakali kaburrk mayi sandwich</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
+        PARENT_REF="rf@B" TIER_ID="trans@B">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a9">
                 <ANNOTATION_VALUE>the man is tired because he was chopping wood</ANNOTATION_VALUE>
@@ -135,8 +184,14 @@
                 <ANNOTATION_VALUE>the man is tired because he was chopping wood</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>distr: they get two sandwiches each</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="comment@B">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
+        PARENT_REF="rf@B" TIER_ID="comment@B">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a9">
                 <ANNOTATION_VALUE>nukka = the man; later marr changed to warri</ANNOTATION_VALUE>
@@ -153,19 +208,29 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@B" TIER_ID="wd@B"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@B" TIER_ID="mb@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx"
+        PARENT_REF="rf@B" TIER_ID="wd@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb"
+        PARENT_REF="wd@B" TIER_ID="mb@B"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@B" TIER_ID="gl@B"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@B" TIER_ID="pos@B"/>
-    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="rf" TIME_ALIGNABLE="true"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="trans" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="lx" TIME_ALIGNABLE="true"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mb" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gl" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="trans" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="lx" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mb" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gl" TIME_ALIGNABLE="false"/>
     <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
-    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
-    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
-    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
 </ANNOTATION_DOCUMENT>

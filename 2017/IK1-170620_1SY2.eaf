@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-12-30T13:43:07+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-25T11:12:32+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2017/IK1-170620_1SY2.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170620_1SY2.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a3fdc370-b6c5-4c78-a377-792eade1be4c</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">101</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">105</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="31684"/>
@@ -84,12 +84,16 @@
         <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="975157"/>
         <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="980986"/>
         <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="986447"/>
-        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="1934536"/>
-        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="1940075"/>
-        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="1977089"/>
-        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="1986654"/>
-        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="2068500"/>
-        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="2083960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="1189920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="1194933"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="1200631"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="1205289"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="1934536"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="1940075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="1977089"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="1986654"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="2068500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="2083960"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en"
         LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
@@ -316,14 +320,26 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a102"
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>kabarralarlme</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a103"
                 TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>ngarrklarlme</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
                 <ANNOTATION_VALUE>ngamabulunj nganjmarnbunj kabikabi, la kikarrme mayi mankukkarlyung mayi kundulk?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
-                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
                 <ANNOTATION_VALUE>ngamabulunj mayi kaburrk bala mankudji feet mankukkarlyung</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -473,6 +489,16 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a96">
                 <ANNOTATION_VALUE>they two threw it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>they two are dividing it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>we are dividing it</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -638,7 +664,7 @@
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
-                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
                 <ANNOTATION_VALUE>?/*: birlinj manbakkarlyung manda kundulk?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>

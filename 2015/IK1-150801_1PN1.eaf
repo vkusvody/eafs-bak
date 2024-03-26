@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-18T16:54:50+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-22T16:19:08+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,13 +7,23 @@
             MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2015/IK1-150801-1PN1.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-150801-1PN1.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:edbcee7d-abe0-4d28-8858-46d88e783b46</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">4</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">10</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="46459"/>
         <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="48090"/>
         <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="89972"/>
         <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="92222"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="336960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="338525"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="551575"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="555035"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="1255463"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="1257055"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="1708223"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="1715920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="2357337"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="2360810"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en"
         LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
@@ -29,6 +39,36 @@
                 <ANNOTATION_VALUE>kawarre djab kayawanj balbarlarrk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>kayuwa mabularr</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>kanjyuwa nguddurdam molek</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>bulumungun</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>kakelkkuyi kunkukkarlyung merrek kibularrbuni</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>kangundje marrmarr warri kamaddjing mankuli</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
         PARENT_REF="rf@A" TIER_ID="trans@A">
@@ -40,6 +80,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a3">
                 <ANNOTATION_VALUE>s/he is walking looking for crab</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>dilli bag</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>

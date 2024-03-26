@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-17T18:31:26+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-23T15:24:02+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2016/IK1-160715_0001.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160715_0001.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a7c7ac39-2558-42d2-9d35-7024589a3fc1</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">24</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">37</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="576529"/>
@@ -36,6 +36,28 @@
         <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="2232522"/>
         <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="2306060"/>
         <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="2310033"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="3789143"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="3791550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="3883836"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="3885586"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="3938183"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="3943670"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="4669170"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="4682393"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="4691708"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="4692827"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="4697012"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="4715433"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="4896548"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="4911140"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="5289133"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="5300778"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="5547865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="5549470"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="5733368"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="5743144"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="5842814"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="5860906"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en"
         LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="Solomon Yalbarr" TIER_ID="rf@A">
@@ -117,6 +139,66 @@
                 <ANNOTATION_VALUE>ngaburrunmarnbum kabarrakukrnadjinj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>mimih kabum kirdimarrk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>ninda ninjeng</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ninda nawarri manjdjang kibu barbung</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ninda nakarrken wularrud ngunda kiddadjarri</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>nayi kornobolo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>la ninda ngayi kinbaddabarrkidbe wularrud kaddadjarrang</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>kabum kerd kaburrk kornobolo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>kinbaddarleng kunbid</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ngarrken kabakkidjanganj kaddum karra kundulk la kanganjbakdjung</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>narleng nganabbarru kadja korro manberrk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
         PARENT_REF="rf@A" TIER_ID="trans@A">
@@ -175,6 +257,11 @@
                 <ANNOTATION_VALUE>I made them see each other</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>this poison</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
         PARENT_REF="rf@A" TIER_ID="comment"/>
@@ -184,9 +271,22 @@
         PARENT_REF="wd@A" TIER_ID="mb@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="gl@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="pos@A"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ok: ninda nakarrken kaddadjarrang ngob nayi kornobolo</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
-        PARENT_REF="rf@B" TIER_ID="trans@B"/>
+        PARENT_REF="rf@B" TIER_ID="trans@B">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>these dogs, they ate all of kangaroo</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
         PARENT_REF="rf@B" TIER_ID="comment@B"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx"

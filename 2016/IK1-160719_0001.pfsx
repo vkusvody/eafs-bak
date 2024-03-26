@@ -173,7 +173,7 @@
     </prefGroup>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>70</Int>
+        <Int>68</Int>
     </pref>
     <prefList key="CommentViewer.Columns.Hidden">
         <String>Sender</String>

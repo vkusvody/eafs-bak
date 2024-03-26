@@ -100,7 +100,7 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">0,27</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>76.00001</Float>
@@ -148,7 +148,7 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>22914</Long>
+        <Long>16157</Long>
     </pref>
     <pref key="MediaTime">
         <Long>32012</Long>

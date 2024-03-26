@@ -100,7 +100,7 @@
         <String>Silence Recognizer MPI-PL</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">1920,27</Object>
+        <Object class="java.awt.Point">320,27</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>76.00001</Float>

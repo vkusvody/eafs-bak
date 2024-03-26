@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-18T12:18:16+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-19T21:12:39+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2017/IK1-170606_1SY2.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170606_1SY2.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:0cc8f00e-8d92-4e87-aa06-7cb0e9360249</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">55</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">60</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="841910"/>
@@ -18,68 +18,72 @@
         <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="1394160"/>
         <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1417010"/>
         <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="1424990"/>
-        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="1807970"/>
-        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="1814530"/>
-        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="1976190"/>
-        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="1977920"/>
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="1992445"/>
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="1997985"/>
-        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="2144460"/>
-        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="2150000"/>
-        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="2190870"/>
-        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="2192210"/>
-        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="2200110"/>
-        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="2203530"/>
-        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="2282990"/>
-        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="2287630"/>
-        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="2297080"/>
-        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="2300230"/>
-        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="2346105"/>
-        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="2348205"/>
-        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="2451805"/>
-        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="2455075"/>
-        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="2462760"/>
-        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="2464190"/>
-        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="2468355"/>
-        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="2472045"/>
-        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="2483480"/>
-        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="2488960"/>
-        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="2489650"/>
-        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="2490780"/>
-        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="2572720"/>
-        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="2574880"/>
-        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="2583860"/>
-        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="2586870"/>
-        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="2615695"/>
-        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="2618385"/>
-        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="2654800"/>
-        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="2658060"/>
-        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="2660980"/>
-        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="2662800"/>
-        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="2688780"/>
-        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="2691330"/>
-        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="2895585"/>
-        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="2904865"/>
-        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="2936210"/>
-        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="2939050"/>
-        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="2971890"/>
-        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="2973850"/>
-        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="3166974"/>
-        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="3168605"/>
-        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="3170730"/>
-        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="3172349"/>
-        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="3196280"/>
-        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="3201859"/>
-        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="3242265"/>
-        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="3248897"/>
-        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="3292894"/>
-        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="3294767"/>
-        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="3338907"/>
-        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="3340157"/>
-        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="3367744"/>
-        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="3371876"/>
-        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="3385559"/>
-        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="3387901"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="1574330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="1577770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="1619570"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="1624500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="1807970"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="1814530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="1976190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="1977920"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="1992445"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="1997985"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="2144460"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="2150000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="2190870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="2192210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="2200110"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="2203530"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="2282990"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="2287630"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="2297080"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="2300230"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="2346105"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="2348205"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="2451805"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="2455075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="2462760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="2464190"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="2468355"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="2472045"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="2483480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="2488960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="2489650"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="2490780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="2572720"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="2574880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="2583860"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="2586870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="2615695"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="2618385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="2654800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="2658060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="2660980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="2662800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="2688780"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="2691330"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="2895585"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="2904865"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="2936210"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="2939050"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="2971890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="2973850"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="3166974"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="3168605"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="3170730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="3172349"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="3196280"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="3201859"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="3242265"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="3248897"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="3292894"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="3294767"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="3338907"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="3340157"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="3367744"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="3371876"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="3385559"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="3387901"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en"
         LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
@@ -102,158 +106,170 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56"
                 TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE># kyui ngamabulunj ngaka kulkkulk kirdirrkkirdirrk</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ngamabulunj nganjka kulkkulk kunkudjikudji</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
                 <ANNOTATION_VALUE>ngawundjiyinj la kanganbirrirnay kunbid</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
-                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
                 <ANNOTATION_VALUE>ngabirrbinibin</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
-                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
                 <ANNOTATION_VALUE>ngawundjiyinj la ngabirrbinibin, kanganbirrirnay</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
-                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
                 <ANNOTATION_VALUE>ngakidanj karra hospital, kanganbirrmaddjing kakalng mulubin</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
-                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
                 <ANNOTATION_VALUE>kakalng mulubin bingaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
-                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
                 <ANNOTATION_VALUE>doctor karnay mayi mulubin bingaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
-                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
                 <ANNOTATION_VALUE>manmak ngob mayi mulubin</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
-                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
                 <ANNOTATION_VALUE>ngawundjiyinj la kanganrnay kiwayuk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
-                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
                 <ANNOTATION_VALUE>ngawundjiyinj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
-                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
                 <ANNOTATION_VALUE>kanganrnay kiwayuk ngaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36"
-                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
                 <ANNOTATION_VALUE>kiwayuk bingaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38"
-                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
                 <ANNOTATION_VALUE>ninda kiwayuk bingaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
-                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
                 <ANNOTATION_VALUE>ninda kiwayuk bingadju</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
-                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
                 <ANNOTATION_VALUE>manda kiwayuk bingaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
-                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
                 <ANNOTATION_VALUE>manda kiwayuk nakaybi birnungu?</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
-                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
                 <ANNOTATION_VALUE>mukka kiwayuk bingaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44"
-                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
                 <ANNOTATION_VALUE>mukka kiwayuk ngayi bingaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45"
-                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
                 <ANNOTATION_VALUE>kanganjkidanj, kanganbawuy, ngurnda kirnani bingaybu kiwayuk</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
-                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
                 <ANNOTATION_VALUE>kanganrnay kiwayuk ngaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
-                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
                 <ANNOTATION_VALUE>la nayika kabaybum</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
-                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
                 <ANNOTATION_VALUE>naworrbam bonjbonj</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
-                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
                 <ANNOTATION_VALUE>nayika kakalng, la nayika kabaybum</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
-                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
                 <ANNOTATION_VALUE>naworrbam kakalng la nguyuyi ngurnda kikala, kadja</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
-                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
                 <ANNOTATION_VALUE>kaburrk kakalng</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
-                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
                 <ANNOTATION_VALUE>Ka-mulmulkalng ninda la ka-baybum kaburrk bala nakudji.</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
-                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
                 <ANNOTATION_VALUE>kamulmulkalng</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -273,6 +289,16 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a17">
                 <ANNOTATION_VALUE>I do excercise every morning</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>I go running sometimes when I feel like it</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>I like to go for a run every now and then</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -339,6 +365,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>just in a moment Solly says he's got this one wrong (the quantifier doesn't mean 'from time to time' as he intended it to, but 'every day' -- and probably it clashes with the relaxed "kuyi ngamabulunj")</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a39">
                 <ANNOTATION_VALUE>nginda?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -359,31 +390,31 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
-                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
                 <ANNOTATION_VALUE>*kakalng mulubin ngaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
-                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
                 <ANNOTATION_VALUE>ok: mayi mulubin manaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46"
-                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
                 <ANNOTATION_VALUE>[kanganrnay] *kiwayuk bingaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
-                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
                 <ANNOTATION_VALUE>[ngurnda kirnani] *kiwayuk ngaybu</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
-                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
                 <ANNOTATION_VALUE>kamulmulkalng</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>

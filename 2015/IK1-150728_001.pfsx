@@ -148,10 +148,10 @@
         <Float>1.0</Float>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>351588</Long>
+        <Long>343621</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>359766</Long>
+        <Long>362555</Long>
     </pref>
     <prefList key="MultiTierViewer.TierOrder">
         <String>rf@A</String>

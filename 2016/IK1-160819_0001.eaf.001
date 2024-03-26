@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-18T20:11:36+01:00"
-    FORMAT="3.0" VERSION="3.0"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-04-05T22:00:43+10:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2016/IK1-160819_0001.wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160819_0001.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2016/IK1-160819_0001.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160819_0001.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:359b82a1-0b9e-4d31-8608-24dca48b7548</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">12</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">13</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1807657"/>
@@ -20,58 +16,56 @@
         <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="2340244"/>
         <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="2342388"/>
         <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="2344823"/>
-        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="4410734"/>
-        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="4414550"/>
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="4431714"/>
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="4432385"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="2568407"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="2590169"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="4410734"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="4414550"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="4431714"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="4432385"/>
     </TIME_ORDER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en"
-        LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="rf@A">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
-                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>kaddamerremarnbudji</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
-                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
                 <ANNOTATION_VALUE>burdubburdub ngaykangkayini (x2) barbung</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
-                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
                 <ANNOTATION_VALUE>la balkkime ngarnakrna karra yalbi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
-                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
                 <ANNOTATION_VALUE>ngarnakrna karra yalbi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
-                TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
                 <ANNOTATION_VALUE>la ngabudduwuy nayi kabbala</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
-                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>nginda ngayi ngana ngayi kingaydju nawalak kaddababayuwa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
                 <ANNOTATION_VALUE>kundulk la merre ngaydju</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
-                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
                 <ANNOTATION_VALUE>kabilibilayi</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
-        PARENT_REF="rf@A" TIER_ID="trans@A">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a7">
                 <ANNOTATION_VALUE>they are doing their hair</ANNOTATION_VALUE>
@@ -93,48 +87,33 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
-        PARENT_REF="rf@A" TIER_ID="comment">
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@A" TIER_ID="comment">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a7">
                 <ANNOTATION_VALUE>ambiguous (help each other or work each on their own hair)</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx"
-        PARENT_REF="rf@A" TIER_ID="wd@A"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb"
-        PARENT_REF="wd@A" TIER_ID="mb@A"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@A" TIER_ID="wd@A"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@A" TIER_ID="mb@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="gl@A"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@A" TIER_ID="pos@A"/>
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="rf" TIER_ID="rf@B"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
-        PARENT_REF="rf@B" TIER_ID="trans@B"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
-        PARENT_REF="rf@B" TIER_ID="comment@B"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx"
-        PARENT_REF="rf@B" TIER_ID="wd@B"/>
-    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb"
-        PARENT_REF="wd@B" TIER_ID="mb@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="trans@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans" PARENT_REF="rf@B" TIER_ID="comment@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="lx" PARENT_REF="rf@B" TIER_ID="wd@B"/>
+    <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="mb" PARENT_REF="wd@B" TIER_ID="mb@B"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@B" TIER_ID="gl@B"/>
     <TIER ANNOTATOR="ik" LINGUISTIC_TYPE_REF="gl" PARENT_REF="mb@B" TIER_ID="pos@B"/>
-    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
-        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="rf" TIME_ALIGNABLE="true"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
-        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="trans" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Included_In"
-        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="lx" TIME_ALIGNABLE="true"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
-        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mb" TIME_ALIGNABLE="false"/>
-    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
-        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gl" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="trans" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="lx" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="mb" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gl" TIME_ALIGNABLE="false"/>
     <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en"/>
-    <CONSTRAINT
-        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
-    <CONSTRAINT
-        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
-    <CONSTRAINT
-        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
 </ANNOTATION_DOCUMENT>
