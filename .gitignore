@@ -6,3 +6,7 @@
 
 # nor mac's crazy shit
 ._*
+
+# 2024-03-26 jeez, not pfsx nor 001s either!
+*.pfsx
+*.001
