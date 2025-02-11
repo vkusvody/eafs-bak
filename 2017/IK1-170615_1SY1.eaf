@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-05-22T14:50:13+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-07-08T12:26:18+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2017/IK1-170615_1SY1.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-170615_1SY1.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:d36d6cad-f454-48d2-a423-22fc38bb9d6f</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">31</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">51</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="60973"/>
@@ -202,18 +202,118 @@
     <TIER ANNOTATOR="ik" DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="trans"
         PARENT_REF="rf@A" TIER_ID="trans@A">
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Pat and Daisy are neighbours. He lives [here] and she lives [there]</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3" ANNOTATION_REF="a2">
                 <ANNOTATION_VALUE>Pat is packing, he's going on a holiday to the city</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Pat thinks, Who will look after the snake that he has, who will give it food?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>He called Daisy. She said, Yes, I'll look after him</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>So she went to the shop and bought dog food</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a7">
-                <ANNOTATION_VALUE/>
+                <ANNOTATION_VALUE>And then she thought, What kind of an animal does he have, dog or cat?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>She thought, Probably dog, I'll get dog food</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>So she bought bones</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>But then she thought, Cat.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>She got it a fish</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>She thought, Rabbit</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>She got it a carrot</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>She came and told him, I've got this food, but I don't know what you have, a dog, a cat, or a rabbit</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>She didn't know [that it was] a snake, and then he told her he had a snake</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Why did you get bones?</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a20">
-                <ANNOTATION_VALUE>I thought that you have a dog</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>I thought that you had a dog</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Why did you get the fish?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>She thought he had a cat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Then he asked her, Why did you get the carrot?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>I thought you had a rabbit</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>No, I have a snake</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>This snake doesn't eat this food</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>No, but it ate it all, the bones, fish, and carrot</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
@@ -227,11 +327,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a17">
                 <ANNOTATION_VALUE>3 person in speech; indirect reported speech</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a19">
-                <ANNOTATION_VALUE/>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

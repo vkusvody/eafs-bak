@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-05-04T16:03:11+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-03-29T16:33:46+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
             MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2016/IK1-160726_0021.wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160726_0021.wav"/>
+            MIME_TYPE="audio/x-wav"
+            RELATIVE_MEDIA_URL="./IK1-160726_0021.wav" TIME_ORIGIN="36053"/>
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/vid/2016/IK1-160726_0021.m4v"
+            MIME_TYPE="unknown" RELATIVE_MEDIA_URL="../../vid/2016/IK1-160726_0021.m4v"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c817bf2a-00a1-47bd-8c24-1aa6ecea8543</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">36</PROPERTY>
     </HEADER>

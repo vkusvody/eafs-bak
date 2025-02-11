@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-03-18T15:35:17+01:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2024-08-06T07:29:34+01:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///run/media/vanya/VAR/bakBlackHDs/recordings/aud/2016/IK1-160424_0001.wav"
+            MEDIA_URL="file:///Volumes/VAR/bakBlackHDs/recordings/aud/2016/IK1-160424_0001.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./IK1-160424_0001.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:4434c825-cea0-4030-a946-95c4d5100e29</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">199</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">200</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="44052"/>
@@ -908,6 +908,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE/>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a13">
                 <ANNOTATION_VALUE>from the ancestors</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -1148,11 +1153,6 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a3">
                 <ANNOTATION_VALUE>mawamawa -- pl, can include others, not only mawa's</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a12">
-                <ANNOTATION_VALUE>это тоже пропускаем -- мне кажется, что он слово не знает, поэтому начинает плести. </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
